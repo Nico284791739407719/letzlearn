@@ -1,0 +1,5706 @@
+{
+  "chapters": [
+    {
+      "id": "a1-01",
+      "level": "A1",
+      "title": "Saluer et prendre congé",
+      "lessons": [
+        {
+          "id": "a1-01-01",
+          "title": "Découvrir : Saluer et prendre congé",
+          "status": "available"
+        },
+        {
+          "id": "a1-01-02",
+          "title": "Comprendre : Saluer et prendre congé",
+          "status": "available"
+        },
+        {
+          "id": "a1-01-03",
+          "title": "Écouter : Saluer et prendre congé",
+          "status": "planned"
+        },
+        {
+          "id": "a1-01-04",
+          "title": "Associer : Saluer et prendre congé",
+          "status": "planned"
+        },
+        {
+          "id": "a1-01-05",
+          "title": "Construire : Saluer et prendre congé",
+          "status": "planned"
+        },
+        {
+          "id": "a1-01-06",
+          "title": "Parler : Saluer et prendre congé",
+          "status": "planned"
+        },
+        {
+          "id": "a1-01-07",
+          "title": "Dialoguer : Saluer et prendre congé",
+          "status": "planned"
+        },
+        {
+          "id": "a1-01-08",
+          "title": "Réviser : Saluer et prendre congé",
+          "status": "planned"
+        },
+        {
+          "id": "a1-01-09",
+          "title": "Pratiquer : Saluer et prendre congé",
+          "status": "planned"
+        },
+        {
+          "id": "a1-01-10",
+          "title": "Évaluation : Saluer et prendre congé",
+          "status": "planned"
+        }
+      ]
+    },
+    {
+      "id": "a1-02",
+      "level": "A1",
+      "title": "Se présenter",
+      "lessons": [
+        {
+          "id": "a1-02-01",
+          "title": "Découvrir : Se présenter",
+          "status": "planned"
+        },
+        {
+          "id": "a1-02-02",
+          "title": "Comprendre : Se présenter",
+          "status": "planned"
+        },
+        {
+          "id": "a1-02-03",
+          "title": "Écouter : Se présenter",
+          "status": "planned"
+        },
+        {
+          "id": "a1-02-04",
+          "title": "Associer : Se présenter",
+          "status": "planned"
+        },
+        {
+          "id": "a1-02-05",
+          "title": "Construire : Se présenter",
+          "status": "planned"
+        },
+        {
+          "id": "a1-02-06",
+          "title": "Parler : Se présenter",
+          "status": "planned"
+        },
+        {
+          "id": "a1-02-07",
+          "title": "Dialoguer : Se présenter",
+          "status": "planned"
+        },
+        {
+          "id": "a1-02-08",
+          "title": "Réviser : Se présenter",
+          "status": "planned"
+        },
+        {
+          "id": "a1-02-09",
+          "title": "Pratiquer : Se présenter",
+          "status": "planned"
+        },
+        {
+          "id": "a1-02-10",
+          "title": "Évaluation : Se présenter",
+          "status": "planned"
+        }
+      ]
+    },
+    {
+      "id": "a1-03",
+      "level": "A1",
+      "title": "Pays et nationalités",
+      "lessons": [
+        {
+          "id": "a1-03-01",
+          "title": "Découvrir : Pays et nationalités",
+          "status": "planned"
+        },
+        {
+          "id": "a1-03-02",
+          "title": "Comprendre : Pays et nationalités",
+          "status": "planned"
+        },
+        {
+          "id": "a1-03-03",
+          "title": "Écouter : Pays et nationalités",
+          "status": "planned"
+        },
+        {
+          "id": "a1-03-04",
+          "title": "Associer : Pays et nationalités",
+          "status": "planned"
+        },
+        {
+          "id": "a1-03-05",
+          "title": "Construire : Pays et nationalités",
+          "status": "planned"
+        },
+        {
+          "id": "a1-03-06",
+          "title": "Parler : Pays et nationalités",
+          "status": "planned"
+        },
+        {
+          "id": "a1-03-07",
+          "title": "Dialoguer : Pays et nationalités",
+          "status": "planned"
+        },
+        {
+          "id": "a1-03-08",
+          "title": "Réviser : Pays et nationalités",
+          "status": "planned"
+        },
+        {
+          "id": "a1-03-09",
+          "title": "Pratiquer : Pays et nationalités",
+          "status": "planned"
+        },
+        {
+          "id": "a1-03-10",
+          "title": "Évaluation : Pays et nationalités",
+          "status": "planned"
+        }
+      ]
+    },
+    {
+      "id": "a1-04",
+      "level": "A1",
+      "title": "Les nombres",
+      "lessons": [
+        {
+          "id": "a1-04-01",
+          "title": "Découvrir : Les nombres",
+          "status": "planned"
+        },
+        {
+          "id": "a1-04-02",
+          "title": "Comprendre : Les nombres",
+          "status": "planned"
+        },
+        {
+          "id": "a1-04-03",
+          "title": "Écouter : Les nombres",
+          "status": "planned"
+        },
+        {
+          "id": "a1-04-04",
+          "title": "Associer : Les nombres",
+          "status": "planned"
+        },
+        {
+          "id": "a1-04-05",
+          "title": "Construire : Les nombres",
+          "status": "planned"
+        },
+        {
+          "id": "a1-04-06",
+          "title": "Parler : Les nombres",
+          "status": "planned"
+        },
+        {
+          "id": "a1-04-07",
+          "title": "Dialoguer : Les nombres",
+          "status": "planned"
+        },
+        {
+          "id": "a1-04-08",
+          "title": "Réviser : Les nombres",
+          "status": "planned"
+        },
+        {
+          "id": "a1-04-09",
+          "title": "Pratiquer : Les nombres",
+          "status": "planned"
+        },
+        {
+          "id": "a1-04-10",
+          "title": "Évaluation : Les nombres",
+          "status": "planned"
+        }
+      ]
+    },
+    {
+      "id": "a1-05",
+      "level": "A1",
+      "title": "Les couleurs",
+      "lessons": [
+        {
+          "id": "a1-05-01",
+          "title": "Découvrir : Les couleurs",
+          "status": "planned"
+        },
+        {
+          "id": "a1-05-02",
+          "title": "Comprendre : Les couleurs",
+          "status": "planned"
+        },
+        {
+          "id": "a1-05-03",
+          "title": "Écouter : Les couleurs",
+          "status": "planned"
+        },
+        {
+          "id": "a1-05-04",
+          "title": "Associer : Les couleurs",
+          "status": "planned"
+        },
+        {
+          "id": "a1-05-05",
+          "title": "Construire : Les couleurs",
+          "status": "planned"
+        },
+        {
+          "id": "a1-05-06",
+          "title": "Parler : Les couleurs",
+          "status": "planned"
+        },
+        {
+          "id": "a1-05-07",
+          "title": "Dialoguer : Les couleurs",
+          "status": "planned"
+        },
+        {
+          "id": "a1-05-08",
+          "title": "Réviser : Les couleurs",
+          "status": "planned"
+        },
+        {
+          "id": "a1-05-09",
+          "title": "Pratiquer : Les couleurs",
+          "status": "planned"
+        },
+        {
+          "id": "a1-05-10",
+          "title": "Évaluation : Les couleurs",
+          "status": "planned"
+        }
+      ]
+    },
+    {
+      "id": "a1-06",
+      "level": "A1",
+      "title": "La famille",
+      "lessons": [
+        {
+          "id": "a1-06-01",
+          "title": "Découvrir : La famille",
+          "status": "planned"
+        },
+        {
+          "id": "a1-06-02",
+          "title": "Comprendre : La famille",
+          "status": "planned"
+        },
+        {
+          "id": "a1-06-03",
+          "title": "Écouter : La famille",
+          "status": "planned"
+        },
+        {
+          "id": "a1-06-04",
+          "title": "Associer : La famille",
+          "status": "planned"
+        },
+        {
+          "id": "a1-06-05",
+          "title": "Construire : La famille",
+          "status": "planned"
+        },
+        {
+          "id": "a1-06-06",
+          "title": "Parler : La famille",
+          "status": "planned"
+        },
+        {
+          "id": "a1-06-07",
+          "title": "Dialoguer : La famille",
+          "status": "planned"
+        },
+        {
+          "id": "a1-06-08",
+          "title": "Réviser : La famille",
+          "status": "planned"
+        },
+        {
+          "id": "a1-06-09",
+          "title": "Pratiquer : La famille",
+          "status": "planned"
+        },
+        {
+          "id": "a1-06-10",
+          "title": "Évaluation : La famille",
+          "status": "planned"
+        }
+      ]
+    },
+    {
+      "id": "a1-07",
+      "level": "A1",
+      "title": "Les personnes",
+      "lessons": [
+        {
+          "id": "a1-07-01",
+          "title": "Découvrir : Les personnes",
+          "status": "planned"
+        },
+        {
+          "id": "a1-07-02",
+          "title": "Comprendre : Les personnes",
+          "status": "planned"
+        },
+        {
+          "id": "a1-07-03",
+          "title": "Écouter : Les personnes",
+          "status": "planned"
+        },
+        {
+          "id": "a1-07-04",
+          "title": "Associer : Les personnes",
+          "status": "planned"
+        },
+        {
+          "id": "a1-07-05",
+          "title": "Construire : Les personnes",
+          "status": "planned"
+        },
+        {
+          "id": "a1-07-06",
+          "title": "Parler : Les personnes",
+          "status": "planned"
+        },
+        {
+          "id": "a1-07-07",
+          "title": "Dialoguer : Les personnes",
+          "status": "planned"
+        },
+        {
+          "id": "a1-07-08",
+          "title": "Réviser : Les personnes",
+          "status": "planned"
+        },
+        {
+          "id": "a1-07-09",
+          "title": "Pratiquer : Les personnes",
+          "status": "planned"
+        },
+        {
+          "id": "a1-07-10",
+          "title": "Évaluation : Les personnes",
+          "status": "planned"
+        }
+      ]
+    },
+    {
+      "id": "a1-08",
+      "level": "A1",
+      "title": "Les jours",
+      "lessons": [
+        {
+          "id": "a1-08-01",
+          "title": "Découvrir : Les jours",
+          "status": "planned"
+        },
+        {
+          "id": "a1-08-02",
+          "title": "Comprendre : Les jours",
+          "status": "planned"
+        },
+        {
+          "id": "a1-08-03",
+          "title": "Écouter : Les jours",
+          "status": "planned"
+        },
+        {
+          "id": "a1-08-04",
+          "title": "Associer : Les jours",
+          "status": "planned"
+        },
+        {
+          "id": "a1-08-05",
+          "title": "Construire : Les jours",
+          "status": "planned"
+        },
+        {
+          "id": "a1-08-06",
+          "title": "Parler : Les jours",
+          "status": "planned"
+        },
+        {
+          "id": "a1-08-07",
+          "title": "Dialoguer : Les jours",
+          "status": "planned"
+        },
+        {
+          "id": "a1-08-08",
+          "title": "Réviser : Les jours",
+          "status": "planned"
+        },
+        {
+          "id": "a1-08-09",
+          "title": "Pratiquer : Les jours",
+          "status": "planned"
+        },
+        {
+          "id": "a1-08-10",
+          "title": "Évaluation : Les jours",
+          "status": "planned"
+        }
+      ]
+    },
+    {
+      "id": "a1-09",
+      "level": "A1",
+      "title": "Les mois et saisons",
+      "lessons": [
+        {
+          "id": "a1-09-01",
+          "title": "Découvrir : Les mois et saisons",
+          "status": "planned"
+        },
+        {
+          "id": "a1-09-02",
+          "title": "Comprendre : Les mois et saisons",
+          "status": "planned"
+        },
+        {
+          "id": "a1-09-03",
+          "title": "Écouter : Les mois et saisons",
+          "status": "planned"
+        },
+        {
+          "id": "a1-09-04",
+          "title": "Associer : Les mois et saisons",
+          "status": "planned"
+        },
+        {
+          "id": "a1-09-05",
+          "title": "Construire : Les mois et saisons",
+          "status": "planned"
+        },
+        {
+          "id": "a1-09-06",
+          "title": "Parler : Les mois et saisons",
+          "status": "planned"
+        },
+        {
+          "id": "a1-09-07",
+          "title": "Dialoguer : Les mois et saisons",
+          "status": "planned"
+        },
+        {
+          "id": "a1-09-08",
+          "title": "Réviser : Les mois et saisons",
+          "status": "planned"
+        },
+        {
+          "id": "a1-09-09",
+          "title": "Pratiquer : Les mois et saisons",
+          "status": "planned"
+        },
+        {
+          "id": "a1-09-10",
+          "title": "Évaluation : Les mois et saisons",
+          "status": "planned"
+        }
+      ]
+    },
+    {
+      "id": "a1-10",
+      "level": "A1",
+      "title": "Dire l’heure",
+      "lessons": [
+        {
+          "id": "a1-10-01",
+          "title": "Découvrir : Dire l’heure",
+          "status": "planned"
+        },
+        {
+          "id": "a1-10-02",
+          "title": "Comprendre : Dire l’heure",
+          "status": "planned"
+        },
+        {
+          "id": "a1-10-03",
+          "title": "Écouter : Dire l’heure",
+          "status": "planned"
+        },
+        {
+          "id": "a1-10-04",
+          "title": "Associer : Dire l’heure",
+          "status": "planned"
+        },
+        {
+          "id": "a1-10-05",
+          "title": "Construire : Dire l’heure",
+          "status": "planned"
+        },
+        {
+          "id": "a1-10-06",
+          "title": "Parler : Dire l’heure",
+          "status": "planned"
+        },
+        {
+          "id": "a1-10-07",
+          "title": "Dialoguer : Dire l’heure",
+          "status": "planned"
+        },
+        {
+          "id": "a1-10-08",
+          "title": "Réviser : Dire l’heure",
+          "status": "planned"
+        },
+        {
+          "id": "a1-10-09",
+          "title": "Pratiquer : Dire l’heure",
+          "status": "planned"
+        },
+        {
+          "id": "a1-10-10",
+          "title": "Évaluation : Dire l’heure",
+          "status": "planned"
+        }
+      ]
+    },
+    {
+      "id": "a1-11",
+      "level": "A1",
+      "title": "La maison",
+      "lessons": [
+        {
+          "id": "a1-11-01",
+          "title": "Découvrir : La maison",
+          "status": "planned"
+        },
+        {
+          "id": "a1-11-02",
+          "title": "Comprendre : La maison",
+          "status": "planned"
+        },
+        {
+          "id": "a1-11-03",
+          "title": "Écouter : La maison",
+          "status": "planned"
+        },
+        {
+          "id": "a1-11-04",
+          "title": "Associer : La maison",
+          "status": "planned"
+        },
+        {
+          "id": "a1-11-05",
+          "title": "Construire : La maison",
+          "status": "planned"
+        },
+        {
+          "id": "a1-11-06",
+          "title": "Parler : La maison",
+          "status": "planned"
+        },
+        {
+          "id": "a1-11-07",
+          "title": "Dialoguer : La maison",
+          "status": "planned"
+        },
+        {
+          "id": "a1-11-08",
+          "title": "Réviser : La maison",
+          "status": "planned"
+        },
+        {
+          "id": "a1-11-09",
+          "title": "Pratiquer : La maison",
+          "status": "planned"
+        },
+        {
+          "id": "a1-11-10",
+          "title": "Évaluation : La maison",
+          "status": "planned"
+        }
+      ]
+    },
+    {
+      "id": "a1-12",
+      "level": "A1",
+      "title": "Les objets quotidiens",
+      "lessons": [
+        {
+          "id": "a1-12-01",
+          "title": "Découvrir : Les objets quotidiens",
+          "status": "planned"
+        },
+        {
+          "id": "a1-12-02",
+          "title": "Comprendre : Les objets quotidiens",
+          "status": "planned"
+        },
+        {
+          "id": "a1-12-03",
+          "title": "Écouter : Les objets quotidiens",
+          "status": "planned"
+        },
+        {
+          "id": "a1-12-04",
+          "title": "Associer : Les objets quotidiens",
+          "status": "planned"
+        },
+        {
+          "id": "a1-12-05",
+          "title": "Construire : Les objets quotidiens",
+          "status": "planned"
+        },
+        {
+          "id": "a1-12-06",
+          "title": "Parler : Les objets quotidiens",
+          "status": "planned"
+        },
+        {
+          "id": "a1-12-07",
+          "title": "Dialoguer : Les objets quotidiens",
+          "status": "planned"
+        },
+        {
+          "id": "a1-12-08",
+          "title": "Réviser : Les objets quotidiens",
+          "status": "planned"
+        },
+        {
+          "id": "a1-12-09",
+          "title": "Pratiquer : Les objets quotidiens",
+          "status": "planned"
+        },
+        {
+          "id": "a1-12-10",
+          "title": "Évaluation : Les objets quotidiens",
+          "status": "planned"
+        }
+      ]
+    },
+    {
+      "id": "a1-13",
+      "level": "A1",
+      "title": "Manger et boire",
+      "lessons": [
+        {
+          "id": "a1-13-01",
+          "title": "Découvrir : Manger et boire",
+          "status": "planned"
+        },
+        {
+          "id": "a1-13-02",
+          "title": "Comprendre : Manger et boire",
+          "status": "planned"
+        },
+        {
+          "id": "a1-13-03",
+          "title": "Écouter : Manger et boire",
+          "status": "planned"
+        },
+        {
+          "id": "a1-13-04",
+          "title": "Associer : Manger et boire",
+          "status": "planned"
+        },
+        {
+          "id": "a1-13-05",
+          "title": "Construire : Manger et boire",
+          "status": "planned"
+        },
+        {
+          "id": "a1-13-06",
+          "title": "Parler : Manger et boire",
+          "status": "planned"
+        },
+        {
+          "id": "a1-13-07",
+          "title": "Dialoguer : Manger et boire",
+          "status": "planned"
+        },
+        {
+          "id": "a1-13-08",
+          "title": "Réviser : Manger et boire",
+          "status": "planned"
+        },
+        {
+          "id": "a1-13-09",
+          "title": "Pratiquer : Manger et boire",
+          "status": "planned"
+        },
+        {
+          "id": "a1-13-10",
+          "title": "Évaluation : Manger et boire",
+          "status": "planned"
+        }
+      ]
+    },
+    {
+      "id": "a1-14",
+      "level": "A1",
+      "title": "Faire les courses",
+      "lessons": [
+        {
+          "id": "a1-14-01",
+          "title": "Découvrir : Faire les courses",
+          "status": "planned"
+        },
+        {
+          "id": "a1-14-02",
+          "title": "Comprendre : Faire les courses",
+          "status": "planned"
+        },
+        {
+          "id": "a1-14-03",
+          "title": "Écouter : Faire les courses",
+          "status": "planned"
+        },
+        {
+          "id": "a1-14-04",
+          "title": "Associer : Faire les courses",
+          "status": "planned"
+        },
+        {
+          "id": "a1-14-05",
+          "title": "Construire : Faire les courses",
+          "status": "planned"
+        },
+        {
+          "id": "a1-14-06",
+          "title": "Parler : Faire les courses",
+          "status": "planned"
+        },
+        {
+          "id": "a1-14-07",
+          "title": "Dialoguer : Faire les courses",
+          "status": "planned"
+        },
+        {
+          "id": "a1-14-08",
+          "title": "Réviser : Faire les courses",
+          "status": "planned"
+        },
+        {
+          "id": "a1-14-09",
+          "title": "Pratiquer : Faire les courses",
+          "status": "planned"
+        },
+        {
+          "id": "a1-14-10",
+          "title": "Évaluation : Faire les courses",
+          "status": "planned"
+        }
+      ]
+    },
+    {
+      "id": "a1-15",
+      "level": "A1",
+      "title": "Les vêtements",
+      "lessons": [
+        {
+          "id": "a1-15-01",
+          "title": "Découvrir : Les vêtements",
+          "status": "planned"
+        },
+        {
+          "id": "a1-15-02",
+          "title": "Comprendre : Les vêtements",
+          "status": "planned"
+        },
+        {
+          "id": "a1-15-03",
+          "title": "Écouter : Les vêtements",
+          "status": "planned"
+        },
+        {
+          "id": "a1-15-04",
+          "title": "Associer : Les vêtements",
+          "status": "planned"
+        },
+        {
+          "id": "a1-15-05",
+          "title": "Construire : Les vêtements",
+          "status": "planned"
+        },
+        {
+          "id": "a1-15-06",
+          "title": "Parler : Les vêtements",
+          "status": "planned"
+        },
+        {
+          "id": "a1-15-07",
+          "title": "Dialoguer : Les vêtements",
+          "status": "planned"
+        },
+        {
+          "id": "a1-15-08",
+          "title": "Réviser : Les vêtements",
+          "status": "planned"
+        },
+        {
+          "id": "a1-15-09",
+          "title": "Pratiquer : Les vêtements",
+          "status": "planned"
+        },
+        {
+          "id": "a1-15-10",
+          "title": "Évaluation : Les vêtements",
+          "status": "planned"
+        }
+      ]
+    },
+    {
+      "id": "a1-16",
+      "level": "A1",
+      "title": "Les animaux",
+      "lessons": [
+        {
+          "id": "a1-16-01",
+          "title": "Découvrir : Les animaux",
+          "status": "planned"
+        },
+        {
+          "id": "a1-16-02",
+          "title": "Comprendre : Les animaux",
+          "status": "planned"
+        },
+        {
+          "id": "a1-16-03",
+          "title": "Écouter : Les animaux",
+          "status": "planned"
+        },
+        {
+          "id": "a1-16-04",
+          "title": "Associer : Les animaux",
+          "status": "planned"
+        },
+        {
+          "id": "a1-16-05",
+          "title": "Construire : Les animaux",
+          "status": "planned"
+        },
+        {
+          "id": "a1-16-06",
+          "title": "Parler : Les animaux",
+          "status": "planned"
+        },
+        {
+          "id": "a1-16-07",
+          "title": "Dialoguer : Les animaux",
+          "status": "planned"
+        },
+        {
+          "id": "a1-16-08",
+          "title": "Réviser : Les animaux",
+          "status": "planned"
+        },
+        {
+          "id": "a1-16-09",
+          "title": "Pratiquer : Les animaux",
+          "status": "planned"
+        },
+        {
+          "id": "a1-16-10",
+          "title": "Évaluation : Les animaux",
+          "status": "planned"
+        }
+      ]
+    },
+    {
+      "id": "a1-17",
+      "level": "A1",
+      "title": "Le corps",
+      "lessons": [
+        {
+          "id": "a1-17-01",
+          "title": "Découvrir : Le corps",
+          "status": "planned"
+        },
+        {
+          "id": "a1-17-02",
+          "title": "Comprendre : Le corps",
+          "status": "planned"
+        },
+        {
+          "id": "a1-17-03",
+          "title": "Écouter : Le corps",
+          "status": "planned"
+        },
+        {
+          "id": "a1-17-04",
+          "title": "Associer : Le corps",
+          "status": "planned"
+        },
+        {
+          "id": "a1-17-05",
+          "title": "Construire : Le corps",
+          "status": "planned"
+        },
+        {
+          "id": "a1-17-06",
+          "title": "Parler : Le corps",
+          "status": "planned"
+        },
+        {
+          "id": "a1-17-07",
+          "title": "Dialoguer : Le corps",
+          "status": "planned"
+        },
+        {
+          "id": "a1-17-08",
+          "title": "Réviser : Le corps",
+          "status": "planned"
+        },
+        {
+          "id": "a1-17-09",
+          "title": "Pratiquer : Le corps",
+          "status": "planned"
+        },
+        {
+          "id": "a1-17-10",
+          "title": "Évaluation : Le corps",
+          "status": "planned"
+        }
+      ]
+    },
+    {
+      "id": "a1-18",
+      "level": "A1",
+      "title": "La météo",
+      "lessons": [
+        {
+          "id": "a1-18-01",
+          "title": "Découvrir : La météo",
+          "status": "planned"
+        },
+        {
+          "id": "a1-18-02",
+          "title": "Comprendre : La météo",
+          "status": "planned"
+        },
+        {
+          "id": "a1-18-03",
+          "title": "Écouter : La météo",
+          "status": "planned"
+        },
+        {
+          "id": "a1-18-04",
+          "title": "Associer : La météo",
+          "status": "planned"
+        },
+        {
+          "id": "a1-18-05",
+          "title": "Construire : La météo",
+          "status": "planned"
+        },
+        {
+          "id": "a1-18-06",
+          "title": "Parler : La météo",
+          "status": "planned"
+        },
+        {
+          "id": "a1-18-07",
+          "title": "Dialoguer : La météo",
+          "status": "planned"
+        },
+        {
+          "id": "a1-18-08",
+          "title": "Réviser : La météo",
+          "status": "planned"
+        },
+        {
+          "id": "a1-18-09",
+          "title": "Pratiquer : La météo",
+          "status": "planned"
+        },
+        {
+          "id": "a1-18-10",
+          "title": "Évaluation : La météo",
+          "status": "planned"
+        }
+      ]
+    },
+    {
+      "id": "a1-19",
+      "level": "A1",
+      "title": "Les déplacements",
+      "lessons": [
+        {
+          "id": "a1-19-01",
+          "title": "Découvrir : Les déplacements",
+          "status": "planned"
+        },
+        {
+          "id": "a1-19-02",
+          "title": "Comprendre : Les déplacements",
+          "status": "planned"
+        },
+        {
+          "id": "a1-19-03",
+          "title": "Écouter : Les déplacements",
+          "status": "planned"
+        },
+        {
+          "id": "a1-19-04",
+          "title": "Associer : Les déplacements",
+          "status": "planned"
+        },
+        {
+          "id": "a1-19-05",
+          "title": "Construire : Les déplacements",
+          "status": "planned"
+        },
+        {
+          "id": "a1-19-06",
+          "title": "Parler : Les déplacements",
+          "status": "planned"
+        },
+        {
+          "id": "a1-19-07",
+          "title": "Dialoguer : Les déplacements",
+          "status": "planned"
+        },
+        {
+          "id": "a1-19-08",
+          "title": "Réviser : Les déplacements",
+          "status": "planned"
+        },
+        {
+          "id": "a1-19-09",
+          "title": "Pratiquer : Les déplacements",
+          "status": "planned"
+        },
+        {
+          "id": "a1-19-10",
+          "title": "Évaluation : Les déplacements",
+          "status": "planned"
+        }
+      ]
+    },
+    {
+      "id": "a1-20",
+      "level": "A1",
+      "title": "La ville",
+      "lessons": [
+        {
+          "id": "a1-20-01",
+          "title": "Découvrir : La ville",
+          "status": "planned"
+        },
+        {
+          "id": "a1-20-02",
+          "title": "Comprendre : La ville",
+          "status": "planned"
+        },
+        {
+          "id": "a1-20-03",
+          "title": "Écouter : La ville",
+          "status": "planned"
+        },
+        {
+          "id": "a1-20-04",
+          "title": "Associer : La ville",
+          "status": "planned"
+        },
+        {
+          "id": "a1-20-05",
+          "title": "Construire : La ville",
+          "status": "planned"
+        },
+        {
+          "id": "a1-20-06",
+          "title": "Parler : La ville",
+          "status": "planned"
+        },
+        {
+          "id": "a1-20-07",
+          "title": "Dialoguer : La ville",
+          "status": "planned"
+        },
+        {
+          "id": "a1-20-08",
+          "title": "Réviser : La ville",
+          "status": "planned"
+        },
+        {
+          "id": "a1-20-09",
+          "title": "Pratiquer : La ville",
+          "status": "planned"
+        },
+        {
+          "id": "a1-20-10",
+          "title": "Évaluation : La ville",
+          "status": "planned"
+        }
+      ]
+    },
+    {
+      "id": "a1-21",
+      "level": "A1",
+      "title": "Le travail",
+      "lessons": [
+        {
+          "id": "a1-21-01",
+          "title": "Découvrir : Le travail",
+          "status": "planned"
+        },
+        {
+          "id": "a1-21-02",
+          "title": "Comprendre : Le travail",
+          "status": "planned"
+        },
+        {
+          "id": "a1-21-03",
+          "title": "Écouter : Le travail",
+          "status": "planned"
+        },
+        {
+          "id": "a1-21-04",
+          "title": "Associer : Le travail",
+          "status": "planned"
+        },
+        {
+          "id": "a1-21-05",
+          "title": "Construire : Le travail",
+          "status": "planned"
+        },
+        {
+          "id": "a1-21-06",
+          "title": "Parler : Le travail",
+          "status": "planned"
+        },
+        {
+          "id": "a1-21-07",
+          "title": "Dialoguer : Le travail",
+          "status": "planned"
+        },
+        {
+          "id": "a1-21-08",
+          "title": "Réviser : Le travail",
+          "status": "planned"
+        },
+        {
+          "id": "a1-21-09",
+          "title": "Pratiquer : Le travail",
+          "status": "planned"
+        },
+        {
+          "id": "a1-21-10",
+          "title": "Évaluation : Le travail",
+          "status": "planned"
+        }
+      ]
+    },
+    {
+      "id": "a1-22",
+      "level": "A1",
+      "title": "Les loisirs",
+      "lessons": [
+        {
+          "id": "a1-22-01",
+          "title": "Découvrir : Les loisirs",
+          "status": "planned"
+        },
+        {
+          "id": "a1-22-02",
+          "title": "Comprendre : Les loisirs",
+          "status": "planned"
+        },
+        {
+          "id": "a1-22-03",
+          "title": "Écouter : Les loisirs",
+          "status": "planned"
+        },
+        {
+          "id": "a1-22-04",
+          "title": "Associer : Les loisirs",
+          "status": "planned"
+        },
+        {
+          "id": "a1-22-05",
+          "title": "Construire : Les loisirs",
+          "status": "planned"
+        },
+        {
+          "id": "a1-22-06",
+          "title": "Parler : Les loisirs",
+          "status": "planned"
+        },
+        {
+          "id": "a1-22-07",
+          "title": "Dialoguer : Les loisirs",
+          "status": "planned"
+        },
+        {
+          "id": "a1-22-08",
+          "title": "Réviser : Les loisirs",
+          "status": "planned"
+        },
+        {
+          "id": "a1-22-09",
+          "title": "Pratiquer : Les loisirs",
+          "status": "planned"
+        },
+        {
+          "id": "a1-22-10",
+          "title": "Évaluation : Les loisirs",
+          "status": "planned"
+        }
+      ]
+    },
+    {
+      "id": "a1-23",
+      "level": "A1",
+      "title": "Les verbes essentiels",
+      "lessons": [
+        {
+          "id": "a1-23-01",
+          "title": "Découvrir : Les verbes essentiels",
+          "status": "planned"
+        },
+        {
+          "id": "a1-23-02",
+          "title": "Comprendre : Les verbes essentiels",
+          "status": "planned"
+        },
+        {
+          "id": "a1-23-03",
+          "title": "Écouter : Les verbes essentiels",
+          "status": "planned"
+        },
+        {
+          "id": "a1-23-04",
+          "title": "Associer : Les verbes essentiels",
+          "status": "planned"
+        },
+        {
+          "id": "a1-23-05",
+          "title": "Construire : Les verbes essentiels",
+          "status": "planned"
+        },
+        {
+          "id": "a1-23-06",
+          "title": "Parler : Les verbes essentiels",
+          "status": "planned"
+        },
+        {
+          "id": "a1-23-07",
+          "title": "Dialoguer : Les verbes essentiels",
+          "status": "planned"
+        },
+        {
+          "id": "a1-23-08",
+          "title": "Réviser : Les verbes essentiels",
+          "status": "planned"
+        },
+        {
+          "id": "a1-23-09",
+          "title": "Pratiquer : Les verbes essentiels",
+          "status": "planned"
+        },
+        {
+          "id": "a1-23-10",
+          "title": "Évaluation : Les verbes essentiels",
+          "status": "planned"
+        }
+      ]
+    },
+    {
+      "id": "a1-24",
+      "level": "A1",
+      "title": "Questions simples",
+      "lessons": [
+        {
+          "id": "a1-24-01",
+          "title": "Découvrir : Questions simples",
+          "status": "planned"
+        },
+        {
+          "id": "a1-24-02",
+          "title": "Comprendre : Questions simples",
+          "status": "planned"
+        },
+        {
+          "id": "a1-24-03",
+          "title": "Écouter : Questions simples",
+          "status": "planned"
+        },
+        {
+          "id": "a1-24-04",
+          "title": "Associer : Questions simples",
+          "status": "planned"
+        },
+        {
+          "id": "a1-24-05",
+          "title": "Construire : Questions simples",
+          "status": "planned"
+        },
+        {
+          "id": "a1-24-06",
+          "title": "Parler : Questions simples",
+          "status": "planned"
+        },
+        {
+          "id": "a1-24-07",
+          "title": "Dialoguer : Questions simples",
+          "status": "planned"
+        },
+        {
+          "id": "a1-24-08",
+          "title": "Réviser : Questions simples",
+          "status": "planned"
+        },
+        {
+          "id": "a1-24-09",
+          "title": "Pratiquer : Questions simples",
+          "status": "planned"
+        },
+        {
+          "id": "a1-24-10",
+          "title": "Évaluation : Questions simples",
+          "status": "planned"
+        }
+      ]
+    },
+    {
+      "id": "a1-25",
+      "level": "A1",
+      "title": "Dialogues du quotidien",
+      "lessons": [
+        {
+          "id": "a1-25-01",
+          "title": "Découvrir : Dialogues du quotidien",
+          "status": "planned"
+        },
+        {
+          "id": "a1-25-02",
+          "title": "Comprendre : Dialogues du quotidien",
+          "status": "planned"
+        },
+        {
+          "id": "a1-25-03",
+          "title": "Écouter : Dialogues du quotidien",
+          "status": "planned"
+        },
+        {
+          "id": "a1-25-04",
+          "title": "Associer : Dialogues du quotidien",
+          "status": "planned"
+        },
+        {
+          "id": "a1-25-05",
+          "title": "Construire : Dialogues du quotidien",
+          "status": "planned"
+        },
+        {
+          "id": "a1-25-06",
+          "title": "Parler : Dialogues du quotidien",
+          "status": "planned"
+        },
+        {
+          "id": "a1-25-07",
+          "title": "Dialoguer : Dialogues du quotidien",
+          "status": "planned"
+        },
+        {
+          "id": "a1-25-08",
+          "title": "Réviser : Dialogues du quotidien",
+          "status": "planned"
+        },
+        {
+          "id": "a1-25-09",
+          "title": "Pratiquer : Dialogues du quotidien",
+          "status": "planned"
+        },
+        {
+          "id": "a1-25-10",
+          "title": "Évaluation : Dialogues du quotidien",
+          "status": "planned"
+        }
+      ]
+    },
+    {
+      "id": "a2-01",
+      "level": "A2",
+      "title": "Au restaurant",
+      "lessons": [
+        {
+          "id": "a2-01-01",
+          "title": "Découvrir : Au restaurant",
+          "status": "planned"
+        },
+        {
+          "id": "a2-01-02",
+          "title": "Comprendre : Au restaurant",
+          "status": "planned"
+        },
+        {
+          "id": "a2-01-03",
+          "title": "Écouter : Au restaurant",
+          "status": "planned"
+        },
+        {
+          "id": "a2-01-04",
+          "title": "Associer : Au restaurant",
+          "status": "planned"
+        },
+        {
+          "id": "a2-01-05",
+          "title": "Construire : Au restaurant",
+          "status": "planned"
+        },
+        {
+          "id": "a2-01-06",
+          "title": "Parler : Au restaurant",
+          "status": "planned"
+        },
+        {
+          "id": "a2-01-07",
+          "title": "Dialoguer : Au restaurant",
+          "status": "planned"
+        },
+        {
+          "id": "a2-01-08",
+          "title": "Réviser : Au restaurant",
+          "status": "planned"
+        },
+        {
+          "id": "a2-01-09",
+          "title": "Pratiquer : Au restaurant",
+          "status": "planned"
+        },
+        {
+          "id": "a2-01-10",
+          "title": "Évaluation : Au restaurant",
+          "status": "planned"
+        }
+      ]
+    },
+    {
+      "id": "a2-02",
+      "level": "A2",
+      "title": "Au supermarché",
+      "lessons": [
+        {
+          "id": "a2-02-01",
+          "title": "Découvrir : Au supermarché",
+          "status": "planned"
+        },
+        {
+          "id": "a2-02-02",
+          "title": "Comprendre : Au supermarché",
+          "status": "planned"
+        },
+        {
+          "id": "a2-02-03",
+          "title": "Écouter : Au supermarché",
+          "status": "planned"
+        },
+        {
+          "id": "a2-02-04",
+          "title": "Associer : Au supermarché",
+          "status": "planned"
+        },
+        {
+          "id": "a2-02-05",
+          "title": "Construire : Au supermarché",
+          "status": "planned"
+        },
+        {
+          "id": "a2-02-06",
+          "title": "Parler : Au supermarché",
+          "status": "planned"
+        },
+        {
+          "id": "a2-02-07",
+          "title": "Dialoguer : Au supermarché",
+          "status": "planned"
+        },
+        {
+          "id": "a2-02-08",
+          "title": "Réviser : Au supermarché",
+          "status": "planned"
+        },
+        {
+          "id": "a2-02-09",
+          "title": "Pratiquer : Au supermarché",
+          "status": "planned"
+        },
+        {
+          "id": "a2-02-10",
+          "title": "Évaluation : Au supermarché",
+          "status": "planned"
+        }
+      ]
+    },
+    {
+      "id": "a2-03",
+      "level": "A2",
+      "title": "Les transports publics",
+      "lessons": [
+        {
+          "id": "a2-03-01",
+          "title": "Découvrir : Les transports publics",
+          "status": "planned"
+        },
+        {
+          "id": "a2-03-02",
+          "title": "Comprendre : Les transports publics",
+          "status": "planned"
+        },
+        {
+          "id": "a2-03-03",
+          "title": "Écouter : Les transports publics",
+          "status": "planned"
+        },
+        {
+          "id": "a2-03-04",
+          "title": "Associer : Les transports publics",
+          "status": "planned"
+        },
+        {
+          "id": "a2-03-05",
+          "title": "Construire : Les transports publics",
+          "status": "planned"
+        },
+        {
+          "id": "a2-03-06",
+          "title": "Parler : Les transports publics",
+          "status": "planned"
+        },
+        {
+          "id": "a2-03-07",
+          "title": "Dialoguer : Les transports publics",
+          "status": "planned"
+        },
+        {
+          "id": "a2-03-08",
+          "title": "Réviser : Les transports publics",
+          "status": "planned"
+        },
+        {
+          "id": "a2-03-09",
+          "title": "Pratiquer : Les transports publics",
+          "status": "planned"
+        },
+        {
+          "id": "a2-03-10",
+          "title": "Évaluation : Les transports publics",
+          "status": "planned"
+        }
+      ]
+    },
+    {
+      "id": "a2-04",
+      "level": "A2",
+      "title": "Demander son chemin",
+      "lessons": [
+        {
+          "id": "a2-04-01",
+          "title": "Découvrir : Demander son chemin",
+          "status": "planned"
+        },
+        {
+          "id": "a2-04-02",
+          "title": "Comprendre : Demander son chemin",
+          "status": "planned"
+        },
+        {
+          "id": "a2-04-03",
+          "title": "Écouter : Demander son chemin",
+          "status": "planned"
+        },
+        {
+          "id": "a2-04-04",
+          "title": "Associer : Demander son chemin",
+          "status": "planned"
+        },
+        {
+          "id": "a2-04-05",
+          "title": "Construire : Demander son chemin",
+          "status": "planned"
+        },
+        {
+          "id": "a2-04-06",
+          "title": "Parler : Demander son chemin",
+          "status": "planned"
+        },
+        {
+          "id": "a2-04-07",
+          "title": "Dialoguer : Demander son chemin",
+          "status": "planned"
+        },
+        {
+          "id": "a2-04-08",
+          "title": "Réviser : Demander son chemin",
+          "status": "planned"
+        },
+        {
+          "id": "a2-04-09",
+          "title": "Pratiquer : Demander son chemin",
+          "status": "planned"
+        },
+        {
+          "id": "a2-04-10",
+          "title": "Évaluation : Demander son chemin",
+          "status": "planned"
+        }
+      ]
+    },
+    {
+      "id": "a2-05",
+      "level": "A2",
+      "title": "Chez le médecin",
+      "lessons": [
+        {
+          "id": "a2-05-01",
+          "title": "Découvrir : Chez le médecin",
+          "status": "planned"
+        },
+        {
+          "id": "a2-05-02",
+          "title": "Comprendre : Chez le médecin",
+          "status": "planned"
+        },
+        {
+          "id": "a2-05-03",
+          "title": "Écouter : Chez le médecin",
+          "status": "planned"
+        },
+        {
+          "id": "a2-05-04",
+          "title": "Associer : Chez le médecin",
+          "status": "planned"
+        },
+        {
+          "id": "a2-05-05",
+          "title": "Construire : Chez le médecin",
+          "status": "planned"
+        },
+        {
+          "id": "a2-05-06",
+          "title": "Parler : Chez le médecin",
+          "status": "planned"
+        },
+        {
+          "id": "a2-05-07",
+          "title": "Dialoguer : Chez le médecin",
+          "status": "planned"
+        },
+        {
+          "id": "a2-05-08",
+          "title": "Réviser : Chez le médecin",
+          "status": "planned"
+        },
+        {
+          "id": "a2-05-09",
+          "title": "Pratiquer : Chez le médecin",
+          "status": "planned"
+        },
+        {
+          "id": "a2-05-10",
+          "title": "Évaluation : Chez le médecin",
+          "status": "planned"
+        }
+      ]
+    },
+    {
+      "id": "a2-06",
+      "level": "A2",
+      "title": "La pharmacie",
+      "lessons": [
+        {
+          "id": "a2-06-01",
+          "title": "Découvrir : La pharmacie",
+          "status": "planned"
+        },
+        {
+          "id": "a2-06-02",
+          "title": "Comprendre : La pharmacie",
+          "status": "planned"
+        },
+        {
+          "id": "a2-06-03",
+          "title": "Écouter : La pharmacie",
+          "status": "planned"
+        },
+        {
+          "id": "a2-06-04",
+          "title": "Associer : La pharmacie",
+          "status": "planned"
+        },
+        {
+          "id": "a2-06-05",
+          "title": "Construire : La pharmacie",
+          "status": "planned"
+        },
+        {
+          "id": "a2-06-06",
+          "title": "Parler : La pharmacie",
+          "status": "planned"
+        },
+        {
+          "id": "a2-06-07",
+          "title": "Dialoguer : La pharmacie",
+          "status": "planned"
+        },
+        {
+          "id": "a2-06-08",
+          "title": "Réviser : La pharmacie",
+          "status": "planned"
+        },
+        {
+          "id": "a2-06-09",
+          "title": "Pratiquer : La pharmacie",
+          "status": "planned"
+        },
+        {
+          "id": "a2-06-10",
+          "title": "Évaluation : La pharmacie",
+          "status": "planned"
+        }
+      ]
+    },
+    {
+      "id": "a2-07",
+      "level": "A2",
+      "title": "Prendre rendez-vous",
+      "lessons": [
+        {
+          "id": "a2-07-01",
+          "title": "Découvrir : Prendre rendez-vous",
+          "status": "planned"
+        },
+        {
+          "id": "a2-07-02",
+          "title": "Comprendre : Prendre rendez-vous",
+          "status": "planned"
+        },
+        {
+          "id": "a2-07-03",
+          "title": "Écouter : Prendre rendez-vous",
+          "status": "planned"
+        },
+        {
+          "id": "a2-07-04",
+          "title": "Associer : Prendre rendez-vous",
+          "status": "planned"
+        },
+        {
+          "id": "a2-07-05",
+          "title": "Construire : Prendre rendez-vous",
+          "status": "planned"
+        },
+        {
+          "id": "a2-07-06",
+          "title": "Parler : Prendre rendez-vous",
+          "status": "planned"
+        },
+        {
+          "id": "a2-07-07",
+          "title": "Dialoguer : Prendre rendez-vous",
+          "status": "planned"
+        },
+        {
+          "id": "a2-07-08",
+          "title": "Réviser : Prendre rendez-vous",
+          "status": "planned"
+        },
+        {
+          "id": "a2-07-09",
+          "title": "Pratiquer : Prendre rendez-vous",
+          "status": "planned"
+        },
+        {
+          "id": "a2-07-10",
+          "title": "Évaluation : Prendre rendez-vous",
+          "status": "planned"
+        }
+      ]
+    },
+    {
+      "id": "a2-08",
+      "level": "A2",
+      "title": "La vie professionnelle",
+      "lessons": [
+        {
+          "id": "a2-08-01",
+          "title": "Découvrir : La vie professionnelle",
+          "status": "planned"
+        },
+        {
+          "id": "a2-08-02",
+          "title": "Comprendre : La vie professionnelle",
+          "status": "planned"
+        },
+        {
+          "id": "a2-08-03",
+          "title": "Écouter : La vie professionnelle",
+          "status": "planned"
+        },
+        {
+          "id": "a2-08-04",
+          "title": "Associer : La vie professionnelle",
+          "status": "planned"
+        },
+        {
+          "id": "a2-08-05",
+          "title": "Construire : La vie professionnelle",
+          "status": "planned"
+        },
+        {
+          "id": "a2-08-06",
+          "title": "Parler : La vie professionnelle",
+          "status": "planned"
+        },
+        {
+          "id": "a2-08-07",
+          "title": "Dialoguer : La vie professionnelle",
+          "status": "planned"
+        },
+        {
+          "id": "a2-08-08",
+          "title": "Réviser : La vie professionnelle",
+          "status": "planned"
+        },
+        {
+          "id": "a2-08-09",
+          "title": "Pratiquer : La vie professionnelle",
+          "status": "planned"
+        },
+        {
+          "id": "a2-08-10",
+          "title": "Évaluation : La vie professionnelle",
+          "status": "planned"
+        }
+      ]
+    },
+    {
+      "id": "a2-09",
+      "level": "A2",
+      "title": "Les collègues",
+      "lessons": [
+        {
+          "id": "a2-09-01",
+          "title": "Découvrir : Les collègues",
+          "status": "planned"
+        },
+        {
+          "id": "a2-09-02",
+          "title": "Comprendre : Les collègues",
+          "status": "planned"
+        },
+        {
+          "id": "a2-09-03",
+          "title": "Écouter : Les collègues",
+          "status": "planned"
+        },
+        {
+          "id": "a2-09-04",
+          "title": "Associer : Les collègues",
+          "status": "planned"
+        },
+        {
+          "id": "a2-09-05",
+          "title": "Construire : Les collègues",
+          "status": "planned"
+        },
+        {
+          "id": "a2-09-06",
+          "title": "Parler : Les collègues",
+          "status": "planned"
+        },
+        {
+          "id": "a2-09-07",
+          "title": "Dialoguer : Les collègues",
+          "status": "planned"
+        },
+        {
+          "id": "a2-09-08",
+          "title": "Réviser : Les collègues",
+          "status": "planned"
+        },
+        {
+          "id": "a2-09-09",
+          "title": "Pratiquer : Les collègues",
+          "status": "planned"
+        },
+        {
+          "id": "a2-09-10",
+          "title": "Évaluation : Les collègues",
+          "status": "planned"
+        }
+      ]
+    },
+    {
+      "id": "a2-10",
+      "level": "A2",
+      "title": "Les démarches administratives",
+      "lessons": [
+        {
+          "id": "a2-10-01",
+          "title": "Découvrir : Les démarches administratives",
+          "status": "planned"
+        },
+        {
+          "id": "a2-10-02",
+          "title": "Comprendre : Les démarches administratives",
+          "status": "planned"
+        },
+        {
+          "id": "a2-10-03",
+          "title": "Écouter : Les démarches administratives",
+          "status": "planned"
+        },
+        {
+          "id": "a2-10-04",
+          "title": "Associer : Les démarches administratives",
+          "status": "planned"
+        },
+        {
+          "id": "a2-10-05",
+          "title": "Construire : Les démarches administratives",
+          "status": "planned"
+        },
+        {
+          "id": "a2-10-06",
+          "title": "Parler : Les démarches administratives",
+          "status": "planned"
+        },
+        {
+          "id": "a2-10-07",
+          "title": "Dialoguer : Les démarches administratives",
+          "status": "planned"
+        },
+        {
+          "id": "a2-10-08",
+          "title": "Réviser : Les démarches administratives",
+          "status": "planned"
+        },
+        {
+          "id": "a2-10-09",
+          "title": "Pratiquer : Les démarches administratives",
+          "status": "planned"
+        },
+        {
+          "id": "a2-10-10",
+          "title": "Évaluation : Les démarches administratives",
+          "status": "planned"
+        }
+      ]
+    },
+    {
+      "id": "a2-11",
+      "level": "A2",
+      "title": "Le logement",
+      "lessons": [
+        {
+          "id": "a2-11-01",
+          "title": "Découvrir : Le logement",
+          "status": "planned"
+        },
+        {
+          "id": "a2-11-02",
+          "title": "Comprendre : Le logement",
+          "status": "planned"
+        },
+        {
+          "id": "a2-11-03",
+          "title": "Écouter : Le logement",
+          "status": "planned"
+        },
+        {
+          "id": "a2-11-04",
+          "title": "Associer : Le logement",
+          "status": "planned"
+        },
+        {
+          "id": "a2-11-05",
+          "title": "Construire : Le logement",
+          "status": "planned"
+        },
+        {
+          "id": "a2-11-06",
+          "title": "Parler : Le logement",
+          "status": "planned"
+        },
+        {
+          "id": "a2-11-07",
+          "title": "Dialoguer : Le logement",
+          "status": "planned"
+        },
+        {
+          "id": "a2-11-08",
+          "title": "Réviser : Le logement",
+          "status": "planned"
+        },
+        {
+          "id": "a2-11-09",
+          "title": "Pratiquer : Le logement",
+          "status": "planned"
+        },
+        {
+          "id": "a2-11-10",
+          "title": "Évaluation : Le logement",
+          "status": "planned"
+        }
+      ]
+    },
+    {
+      "id": "a2-12",
+      "level": "A2",
+      "title": "Les tâches ménagères",
+      "lessons": [
+        {
+          "id": "a2-12-01",
+          "title": "Découvrir : Les tâches ménagères",
+          "status": "planned"
+        },
+        {
+          "id": "a2-12-02",
+          "title": "Comprendre : Les tâches ménagères",
+          "status": "planned"
+        },
+        {
+          "id": "a2-12-03",
+          "title": "Écouter : Les tâches ménagères",
+          "status": "planned"
+        },
+        {
+          "id": "a2-12-04",
+          "title": "Associer : Les tâches ménagères",
+          "status": "planned"
+        },
+        {
+          "id": "a2-12-05",
+          "title": "Construire : Les tâches ménagères",
+          "status": "planned"
+        },
+        {
+          "id": "a2-12-06",
+          "title": "Parler : Les tâches ménagères",
+          "status": "planned"
+        },
+        {
+          "id": "a2-12-07",
+          "title": "Dialoguer : Les tâches ménagères",
+          "status": "planned"
+        },
+        {
+          "id": "a2-12-08",
+          "title": "Réviser : Les tâches ménagères",
+          "status": "planned"
+        },
+        {
+          "id": "a2-12-09",
+          "title": "Pratiquer : Les tâches ménagères",
+          "status": "planned"
+        },
+        {
+          "id": "a2-12-10",
+          "title": "Évaluation : Les tâches ménagères",
+          "status": "planned"
+        }
+      ]
+    },
+    {
+      "id": "a2-13",
+      "level": "A2",
+      "title": "Les vacances",
+      "lessons": [
+        {
+          "id": "a2-13-01",
+          "title": "Découvrir : Les vacances",
+          "status": "planned"
+        },
+        {
+          "id": "a2-13-02",
+          "title": "Comprendre : Les vacances",
+          "status": "planned"
+        },
+        {
+          "id": "a2-13-03",
+          "title": "Écouter : Les vacances",
+          "status": "planned"
+        },
+        {
+          "id": "a2-13-04",
+          "title": "Associer : Les vacances",
+          "status": "planned"
+        },
+        {
+          "id": "a2-13-05",
+          "title": "Construire : Les vacances",
+          "status": "planned"
+        },
+        {
+          "id": "a2-13-06",
+          "title": "Parler : Les vacances",
+          "status": "planned"
+        },
+        {
+          "id": "a2-13-07",
+          "title": "Dialoguer : Les vacances",
+          "status": "planned"
+        },
+        {
+          "id": "a2-13-08",
+          "title": "Réviser : Les vacances",
+          "status": "planned"
+        },
+        {
+          "id": "a2-13-09",
+          "title": "Pratiquer : Les vacances",
+          "status": "planned"
+        },
+        {
+          "id": "a2-13-10",
+          "title": "Évaluation : Les vacances",
+          "status": "planned"
+        }
+      ]
+    },
+    {
+      "id": "a2-14",
+      "level": "A2",
+      "title": "Les voyages",
+      "lessons": [
+        {
+          "id": "a2-14-01",
+          "title": "Découvrir : Les voyages",
+          "status": "planned"
+        },
+        {
+          "id": "a2-14-02",
+          "title": "Comprendre : Les voyages",
+          "status": "planned"
+        },
+        {
+          "id": "a2-14-03",
+          "title": "Écouter : Les voyages",
+          "status": "planned"
+        },
+        {
+          "id": "a2-14-04",
+          "title": "Associer : Les voyages",
+          "status": "planned"
+        },
+        {
+          "id": "a2-14-05",
+          "title": "Construire : Les voyages",
+          "status": "planned"
+        },
+        {
+          "id": "a2-14-06",
+          "title": "Parler : Les voyages",
+          "status": "planned"
+        },
+        {
+          "id": "a2-14-07",
+          "title": "Dialoguer : Les voyages",
+          "status": "planned"
+        },
+        {
+          "id": "a2-14-08",
+          "title": "Réviser : Les voyages",
+          "status": "planned"
+        },
+        {
+          "id": "a2-14-09",
+          "title": "Pratiquer : Les voyages",
+          "status": "planned"
+        },
+        {
+          "id": "a2-14-10",
+          "title": "Évaluation : Les voyages",
+          "status": "planned"
+        }
+      ]
+    },
+    {
+      "id": "a2-15",
+      "level": "A2",
+      "title": "Les invitations",
+      "lessons": [
+        {
+          "id": "a2-15-01",
+          "title": "Découvrir : Les invitations",
+          "status": "planned"
+        },
+        {
+          "id": "a2-15-02",
+          "title": "Comprendre : Les invitations",
+          "status": "planned"
+        },
+        {
+          "id": "a2-15-03",
+          "title": "Écouter : Les invitations",
+          "status": "planned"
+        },
+        {
+          "id": "a2-15-04",
+          "title": "Associer : Les invitations",
+          "status": "planned"
+        },
+        {
+          "id": "a2-15-05",
+          "title": "Construire : Les invitations",
+          "status": "planned"
+        },
+        {
+          "id": "a2-15-06",
+          "title": "Parler : Les invitations",
+          "status": "planned"
+        },
+        {
+          "id": "a2-15-07",
+          "title": "Dialoguer : Les invitations",
+          "status": "planned"
+        },
+        {
+          "id": "a2-15-08",
+          "title": "Réviser : Les invitations",
+          "status": "planned"
+        },
+        {
+          "id": "a2-15-09",
+          "title": "Pratiquer : Les invitations",
+          "status": "planned"
+        },
+        {
+          "id": "a2-15-10",
+          "title": "Évaluation : Les invitations",
+          "status": "planned"
+        }
+      ]
+    },
+    {
+      "id": "a2-16",
+      "level": "A2",
+      "title": "Les fêtes",
+      "lessons": [
+        {
+          "id": "a2-16-01",
+          "title": "Découvrir : Les fêtes",
+          "status": "planned"
+        },
+        {
+          "id": "a2-16-02",
+          "title": "Comprendre : Les fêtes",
+          "status": "planned"
+        },
+        {
+          "id": "a2-16-03",
+          "title": "Écouter : Les fêtes",
+          "status": "planned"
+        },
+        {
+          "id": "a2-16-04",
+          "title": "Associer : Les fêtes",
+          "status": "planned"
+        },
+        {
+          "id": "a2-16-05",
+          "title": "Construire : Les fêtes",
+          "status": "planned"
+        },
+        {
+          "id": "a2-16-06",
+          "title": "Parler : Les fêtes",
+          "status": "planned"
+        },
+        {
+          "id": "a2-16-07",
+          "title": "Dialoguer : Les fêtes",
+          "status": "planned"
+        },
+        {
+          "id": "a2-16-08",
+          "title": "Réviser : Les fêtes",
+          "status": "planned"
+        },
+        {
+          "id": "a2-16-09",
+          "title": "Pratiquer : Les fêtes",
+          "status": "planned"
+        },
+        {
+          "id": "a2-16-10",
+          "title": "Évaluation : Les fêtes",
+          "status": "planned"
+        }
+      ]
+    },
+    {
+      "id": "a2-17",
+      "level": "A2",
+      "title": "Les émotions",
+      "lessons": [
+        {
+          "id": "a2-17-01",
+          "title": "Découvrir : Les émotions",
+          "status": "planned"
+        },
+        {
+          "id": "a2-17-02",
+          "title": "Comprendre : Les émotions",
+          "status": "planned"
+        },
+        {
+          "id": "a2-17-03",
+          "title": "Écouter : Les émotions",
+          "status": "planned"
+        },
+        {
+          "id": "a2-17-04",
+          "title": "Associer : Les émotions",
+          "status": "planned"
+        },
+        {
+          "id": "a2-17-05",
+          "title": "Construire : Les émotions",
+          "status": "planned"
+        },
+        {
+          "id": "a2-17-06",
+          "title": "Parler : Les émotions",
+          "status": "planned"
+        },
+        {
+          "id": "a2-17-07",
+          "title": "Dialoguer : Les émotions",
+          "status": "planned"
+        },
+        {
+          "id": "a2-17-08",
+          "title": "Réviser : Les émotions",
+          "status": "planned"
+        },
+        {
+          "id": "a2-17-09",
+          "title": "Pratiquer : Les émotions",
+          "status": "planned"
+        },
+        {
+          "id": "a2-17-10",
+          "title": "Évaluation : Les émotions",
+          "status": "planned"
+        }
+      ]
+    },
+    {
+      "id": "a2-18",
+      "level": "A2",
+      "title": "Les habitudes",
+      "lessons": [
+        {
+          "id": "a2-18-01",
+          "title": "Découvrir : Les habitudes",
+          "status": "planned"
+        },
+        {
+          "id": "a2-18-02",
+          "title": "Comprendre : Les habitudes",
+          "status": "planned"
+        },
+        {
+          "id": "a2-18-03",
+          "title": "Écouter : Les habitudes",
+          "status": "planned"
+        },
+        {
+          "id": "a2-18-04",
+          "title": "Associer : Les habitudes",
+          "status": "planned"
+        },
+        {
+          "id": "a2-18-05",
+          "title": "Construire : Les habitudes",
+          "status": "planned"
+        },
+        {
+          "id": "a2-18-06",
+          "title": "Parler : Les habitudes",
+          "status": "planned"
+        },
+        {
+          "id": "a2-18-07",
+          "title": "Dialoguer : Les habitudes",
+          "status": "planned"
+        },
+        {
+          "id": "a2-18-08",
+          "title": "Réviser : Les habitudes",
+          "status": "planned"
+        },
+        {
+          "id": "a2-18-09",
+          "title": "Pratiquer : Les habitudes",
+          "status": "planned"
+        },
+        {
+          "id": "a2-18-10",
+          "title": "Évaluation : Les habitudes",
+          "status": "planned"
+        }
+      ]
+    },
+    {
+      "id": "a2-19",
+      "level": "A2",
+      "title": "Raconter sa journée",
+      "lessons": [
+        {
+          "id": "a2-19-01",
+          "title": "Découvrir : Raconter sa journée",
+          "status": "planned"
+        },
+        {
+          "id": "a2-19-02",
+          "title": "Comprendre : Raconter sa journée",
+          "status": "planned"
+        },
+        {
+          "id": "a2-19-03",
+          "title": "Écouter : Raconter sa journée",
+          "status": "planned"
+        },
+        {
+          "id": "a2-19-04",
+          "title": "Associer : Raconter sa journée",
+          "status": "planned"
+        },
+        {
+          "id": "a2-19-05",
+          "title": "Construire : Raconter sa journée",
+          "status": "planned"
+        },
+        {
+          "id": "a2-19-06",
+          "title": "Parler : Raconter sa journée",
+          "status": "planned"
+        },
+        {
+          "id": "a2-19-07",
+          "title": "Dialoguer : Raconter sa journée",
+          "status": "planned"
+        },
+        {
+          "id": "a2-19-08",
+          "title": "Réviser : Raconter sa journée",
+          "status": "planned"
+        },
+        {
+          "id": "a2-19-09",
+          "title": "Pratiquer : Raconter sa journée",
+          "status": "planned"
+        },
+        {
+          "id": "a2-19-10",
+          "title": "Évaluation : Raconter sa journée",
+          "status": "planned"
+        }
+      ]
+    },
+    {
+      "id": "a2-20",
+      "level": "A2",
+      "title": "Parler du passé",
+      "lessons": [
+        {
+          "id": "a2-20-01",
+          "title": "Découvrir : Parler du passé",
+          "status": "planned"
+        },
+        {
+          "id": "a2-20-02",
+          "title": "Comprendre : Parler du passé",
+          "status": "planned"
+        },
+        {
+          "id": "a2-20-03",
+          "title": "Écouter : Parler du passé",
+          "status": "planned"
+        },
+        {
+          "id": "a2-20-04",
+          "title": "Associer : Parler du passé",
+          "status": "planned"
+        },
+        {
+          "id": "a2-20-05",
+          "title": "Construire : Parler du passé",
+          "status": "planned"
+        },
+        {
+          "id": "a2-20-06",
+          "title": "Parler : Parler du passé",
+          "status": "planned"
+        },
+        {
+          "id": "a2-20-07",
+          "title": "Dialoguer : Parler du passé",
+          "status": "planned"
+        },
+        {
+          "id": "a2-20-08",
+          "title": "Réviser : Parler du passé",
+          "status": "planned"
+        },
+        {
+          "id": "a2-20-09",
+          "title": "Pratiquer : Parler du passé",
+          "status": "planned"
+        },
+        {
+          "id": "a2-20-10",
+          "title": "Évaluation : Parler du passé",
+          "status": "planned"
+        }
+      ]
+    },
+    {
+      "id": "a2-21",
+      "level": "A2",
+      "title": "Faire des projets",
+      "lessons": [
+        {
+          "id": "a2-21-01",
+          "title": "Découvrir : Faire des projets",
+          "status": "planned"
+        },
+        {
+          "id": "a2-21-02",
+          "title": "Comprendre : Faire des projets",
+          "status": "planned"
+        },
+        {
+          "id": "a2-21-03",
+          "title": "Écouter : Faire des projets",
+          "status": "planned"
+        },
+        {
+          "id": "a2-21-04",
+          "title": "Associer : Faire des projets",
+          "status": "planned"
+        },
+        {
+          "id": "a2-21-05",
+          "title": "Construire : Faire des projets",
+          "status": "planned"
+        },
+        {
+          "id": "a2-21-06",
+          "title": "Parler : Faire des projets",
+          "status": "planned"
+        },
+        {
+          "id": "a2-21-07",
+          "title": "Dialoguer : Faire des projets",
+          "status": "planned"
+        },
+        {
+          "id": "a2-21-08",
+          "title": "Réviser : Faire des projets",
+          "status": "planned"
+        },
+        {
+          "id": "a2-21-09",
+          "title": "Pratiquer : Faire des projets",
+          "status": "planned"
+        },
+        {
+          "id": "a2-21-10",
+          "title": "Évaluation : Faire des projets",
+          "status": "planned"
+        }
+      ]
+    },
+    {
+      "id": "a2-22",
+      "level": "A2",
+      "title": "Comparer et choisir",
+      "lessons": [
+        {
+          "id": "a2-22-01",
+          "title": "Découvrir : Comparer et choisir",
+          "status": "planned"
+        },
+        {
+          "id": "a2-22-02",
+          "title": "Comprendre : Comparer et choisir",
+          "status": "planned"
+        },
+        {
+          "id": "a2-22-03",
+          "title": "Écouter : Comparer et choisir",
+          "status": "planned"
+        },
+        {
+          "id": "a2-22-04",
+          "title": "Associer : Comparer et choisir",
+          "status": "planned"
+        },
+        {
+          "id": "a2-22-05",
+          "title": "Construire : Comparer et choisir",
+          "status": "planned"
+        },
+        {
+          "id": "a2-22-06",
+          "title": "Parler : Comparer et choisir",
+          "status": "planned"
+        },
+        {
+          "id": "a2-22-07",
+          "title": "Dialoguer : Comparer et choisir",
+          "status": "planned"
+        },
+        {
+          "id": "a2-22-08",
+          "title": "Réviser : Comparer et choisir",
+          "status": "planned"
+        },
+        {
+          "id": "a2-22-09",
+          "title": "Pratiquer : Comparer et choisir",
+          "status": "planned"
+        },
+        {
+          "id": "a2-22-10",
+          "title": "Évaluation : Comparer et choisir",
+          "status": "planned"
+        }
+      ]
+    },
+    {
+      "id": "a2-23",
+      "level": "A2",
+      "title": "Expliquer un problème",
+      "lessons": [
+        {
+          "id": "a2-23-01",
+          "title": "Découvrir : Expliquer un problème",
+          "status": "planned"
+        },
+        {
+          "id": "a2-23-02",
+          "title": "Comprendre : Expliquer un problème",
+          "status": "planned"
+        },
+        {
+          "id": "a2-23-03",
+          "title": "Écouter : Expliquer un problème",
+          "status": "planned"
+        },
+        {
+          "id": "a2-23-04",
+          "title": "Associer : Expliquer un problème",
+          "status": "planned"
+        },
+        {
+          "id": "a2-23-05",
+          "title": "Construire : Expliquer un problème",
+          "status": "planned"
+        },
+        {
+          "id": "a2-23-06",
+          "title": "Parler : Expliquer un problème",
+          "status": "planned"
+        },
+        {
+          "id": "a2-23-07",
+          "title": "Dialoguer : Expliquer un problème",
+          "status": "planned"
+        },
+        {
+          "id": "a2-23-08",
+          "title": "Réviser : Expliquer un problème",
+          "status": "planned"
+        },
+        {
+          "id": "a2-23-09",
+          "title": "Pratiquer : Expliquer un problème",
+          "status": "planned"
+        },
+        {
+          "id": "a2-23-10",
+          "title": "Évaluation : Expliquer un problème",
+          "status": "planned"
+        }
+      ]
+    },
+    {
+      "id": "a2-24",
+      "level": "A2",
+      "title": "Conversations téléphoniques",
+      "lessons": [
+        {
+          "id": "a2-24-01",
+          "title": "Découvrir : Conversations téléphoniques",
+          "status": "planned"
+        },
+        {
+          "id": "a2-24-02",
+          "title": "Comprendre : Conversations téléphoniques",
+          "status": "planned"
+        },
+        {
+          "id": "a2-24-03",
+          "title": "Écouter : Conversations téléphoniques",
+          "status": "planned"
+        },
+        {
+          "id": "a2-24-04",
+          "title": "Associer : Conversations téléphoniques",
+          "status": "planned"
+        },
+        {
+          "id": "a2-24-05",
+          "title": "Construire : Conversations téléphoniques",
+          "status": "planned"
+        },
+        {
+          "id": "a2-24-06",
+          "title": "Parler : Conversations téléphoniques",
+          "status": "planned"
+        },
+        {
+          "id": "a2-24-07",
+          "title": "Dialoguer : Conversations téléphoniques",
+          "status": "planned"
+        },
+        {
+          "id": "a2-24-08",
+          "title": "Réviser : Conversations téléphoniques",
+          "status": "planned"
+        },
+        {
+          "id": "a2-24-09",
+          "title": "Pratiquer : Conversations téléphoniques",
+          "status": "planned"
+        },
+        {
+          "id": "a2-24-10",
+          "title": "Évaluation : Conversations téléphoniques",
+          "status": "planned"
+        }
+      ]
+    },
+    {
+      "id": "a2-25",
+      "level": "A2",
+      "title": "Situations pratiques",
+      "lessons": [
+        {
+          "id": "a2-25-01",
+          "title": "Découvrir : Situations pratiques",
+          "status": "planned"
+        },
+        {
+          "id": "a2-25-02",
+          "title": "Comprendre : Situations pratiques",
+          "status": "planned"
+        },
+        {
+          "id": "a2-25-03",
+          "title": "Écouter : Situations pratiques",
+          "status": "planned"
+        },
+        {
+          "id": "a2-25-04",
+          "title": "Associer : Situations pratiques",
+          "status": "planned"
+        },
+        {
+          "id": "a2-25-05",
+          "title": "Construire : Situations pratiques",
+          "status": "planned"
+        },
+        {
+          "id": "a2-25-06",
+          "title": "Parler : Situations pratiques",
+          "status": "planned"
+        },
+        {
+          "id": "a2-25-07",
+          "title": "Dialoguer : Situations pratiques",
+          "status": "planned"
+        },
+        {
+          "id": "a2-25-08",
+          "title": "Réviser : Situations pratiques",
+          "status": "planned"
+        },
+        {
+          "id": "a2-25-09",
+          "title": "Pratiquer : Situations pratiques",
+          "status": "planned"
+        },
+        {
+          "id": "a2-25-10",
+          "title": "Évaluation : Situations pratiques",
+          "status": "planned"
+        }
+      ]
+    },
+    {
+      "id": "b1-01",
+      "level": "B1",
+      "title": "Raconter un événement",
+      "lessons": [
+        {
+          "id": "b1-01-01",
+          "title": "Découvrir : Raconter un événement",
+          "status": "planned"
+        },
+        {
+          "id": "b1-01-02",
+          "title": "Comprendre : Raconter un événement",
+          "status": "planned"
+        },
+        {
+          "id": "b1-01-03",
+          "title": "Écouter : Raconter un événement",
+          "status": "planned"
+        },
+        {
+          "id": "b1-01-04",
+          "title": "Associer : Raconter un événement",
+          "status": "planned"
+        },
+        {
+          "id": "b1-01-05",
+          "title": "Construire : Raconter un événement",
+          "status": "planned"
+        },
+        {
+          "id": "b1-01-06",
+          "title": "Parler : Raconter un événement",
+          "status": "planned"
+        },
+        {
+          "id": "b1-01-07",
+          "title": "Dialoguer : Raconter un événement",
+          "status": "planned"
+        },
+        {
+          "id": "b1-01-08",
+          "title": "Réviser : Raconter un événement",
+          "status": "planned"
+        },
+        {
+          "id": "b1-01-09",
+          "title": "Pratiquer : Raconter un événement",
+          "status": "planned"
+        },
+        {
+          "id": "b1-01-10",
+          "title": "Évaluation : Raconter un événement",
+          "status": "planned"
+        }
+      ]
+    },
+    {
+      "id": "b1-02",
+      "level": "B1",
+      "title": "Exprimer son opinion",
+      "lessons": [
+        {
+          "id": "b1-02-01",
+          "title": "Découvrir : Exprimer son opinion",
+          "status": "planned"
+        },
+        {
+          "id": "b1-02-02",
+          "title": "Comprendre : Exprimer son opinion",
+          "status": "planned"
+        },
+        {
+          "id": "b1-02-03",
+          "title": "Écouter : Exprimer son opinion",
+          "status": "planned"
+        },
+        {
+          "id": "b1-02-04",
+          "title": "Associer : Exprimer son opinion",
+          "status": "planned"
+        },
+        {
+          "id": "b1-02-05",
+          "title": "Construire : Exprimer son opinion",
+          "status": "planned"
+        },
+        {
+          "id": "b1-02-06",
+          "title": "Parler : Exprimer son opinion",
+          "status": "planned"
+        },
+        {
+          "id": "b1-02-07",
+          "title": "Dialoguer : Exprimer son opinion",
+          "status": "planned"
+        },
+        {
+          "id": "b1-02-08",
+          "title": "Réviser : Exprimer son opinion",
+          "status": "planned"
+        },
+        {
+          "id": "b1-02-09",
+          "title": "Pratiquer : Exprimer son opinion",
+          "status": "planned"
+        },
+        {
+          "id": "b1-02-10",
+          "title": "Évaluation : Exprimer son opinion",
+          "status": "planned"
+        }
+      ]
+    },
+    {
+      "id": "b1-03",
+      "level": "B1",
+      "title": "Justifier ses choix",
+      "lessons": [
+        {
+          "id": "b1-03-01",
+          "title": "Découvrir : Justifier ses choix",
+          "status": "planned"
+        },
+        {
+          "id": "b1-03-02",
+          "title": "Comprendre : Justifier ses choix",
+          "status": "planned"
+        },
+        {
+          "id": "b1-03-03",
+          "title": "Écouter : Justifier ses choix",
+          "status": "planned"
+        },
+        {
+          "id": "b1-03-04",
+          "title": "Associer : Justifier ses choix",
+          "status": "planned"
+        },
+        {
+          "id": "b1-03-05",
+          "title": "Construire : Justifier ses choix",
+          "status": "planned"
+        },
+        {
+          "id": "b1-03-06",
+          "title": "Parler : Justifier ses choix",
+          "status": "planned"
+        },
+        {
+          "id": "b1-03-07",
+          "title": "Dialoguer : Justifier ses choix",
+          "status": "planned"
+        },
+        {
+          "id": "b1-03-08",
+          "title": "Réviser : Justifier ses choix",
+          "status": "planned"
+        },
+        {
+          "id": "b1-03-09",
+          "title": "Pratiquer : Justifier ses choix",
+          "status": "planned"
+        },
+        {
+          "id": "b1-03-10",
+          "title": "Évaluation : Justifier ses choix",
+          "status": "planned"
+        }
+      ]
+    },
+    {
+      "id": "b1-04",
+      "level": "B1",
+      "title": "Discuter du travail",
+      "lessons": [
+        {
+          "id": "b1-04-01",
+          "title": "Découvrir : Discuter du travail",
+          "status": "planned"
+        },
+        {
+          "id": "b1-04-02",
+          "title": "Comprendre : Discuter du travail",
+          "status": "planned"
+        },
+        {
+          "id": "b1-04-03",
+          "title": "Écouter : Discuter du travail",
+          "status": "planned"
+        },
+        {
+          "id": "b1-04-04",
+          "title": "Associer : Discuter du travail",
+          "status": "planned"
+        },
+        {
+          "id": "b1-04-05",
+          "title": "Construire : Discuter du travail",
+          "status": "planned"
+        },
+        {
+          "id": "b1-04-06",
+          "title": "Parler : Discuter du travail",
+          "status": "planned"
+        },
+        {
+          "id": "b1-04-07",
+          "title": "Dialoguer : Discuter du travail",
+          "status": "planned"
+        },
+        {
+          "id": "b1-04-08",
+          "title": "Réviser : Discuter du travail",
+          "status": "planned"
+        },
+        {
+          "id": "b1-04-09",
+          "title": "Pratiquer : Discuter du travail",
+          "status": "planned"
+        },
+        {
+          "id": "b1-04-10",
+          "title": "Évaluation : Discuter du travail",
+          "status": "planned"
+        }
+      ]
+    },
+    {
+      "id": "b1-05",
+      "level": "B1",
+      "title": "Entretiens professionnels",
+      "lessons": [
+        {
+          "id": "b1-05-01",
+          "title": "Découvrir : Entretiens professionnels",
+          "status": "planned"
+        },
+        {
+          "id": "b1-05-02",
+          "title": "Comprendre : Entretiens professionnels",
+          "status": "planned"
+        },
+        {
+          "id": "b1-05-03",
+          "title": "Écouter : Entretiens professionnels",
+          "status": "planned"
+        },
+        {
+          "id": "b1-05-04",
+          "title": "Associer : Entretiens professionnels",
+          "status": "planned"
+        },
+        {
+          "id": "b1-05-05",
+          "title": "Construire : Entretiens professionnels",
+          "status": "planned"
+        },
+        {
+          "id": "b1-05-06",
+          "title": "Parler : Entretiens professionnels",
+          "status": "planned"
+        },
+        {
+          "id": "b1-05-07",
+          "title": "Dialoguer : Entretiens professionnels",
+          "status": "planned"
+        },
+        {
+          "id": "b1-05-08",
+          "title": "Réviser : Entretiens professionnels",
+          "status": "planned"
+        },
+        {
+          "id": "b1-05-09",
+          "title": "Pratiquer : Entretiens professionnels",
+          "status": "planned"
+        },
+        {
+          "id": "b1-05-10",
+          "title": "Évaluation : Entretiens professionnels",
+          "status": "planned"
+        }
+      ]
+    },
+    {
+      "id": "b1-06",
+      "level": "B1",
+      "title": "Relations sociales",
+      "lessons": [
+        {
+          "id": "b1-06-01",
+          "title": "Découvrir : Relations sociales",
+          "status": "planned"
+        },
+        {
+          "id": "b1-06-02",
+          "title": "Comprendre : Relations sociales",
+          "status": "planned"
+        },
+        {
+          "id": "b1-06-03",
+          "title": "Écouter : Relations sociales",
+          "status": "planned"
+        },
+        {
+          "id": "b1-06-04",
+          "title": "Associer : Relations sociales",
+          "status": "planned"
+        },
+        {
+          "id": "b1-06-05",
+          "title": "Construire : Relations sociales",
+          "status": "planned"
+        },
+        {
+          "id": "b1-06-06",
+          "title": "Parler : Relations sociales",
+          "status": "planned"
+        },
+        {
+          "id": "b1-06-07",
+          "title": "Dialoguer : Relations sociales",
+          "status": "planned"
+        },
+        {
+          "id": "b1-06-08",
+          "title": "Réviser : Relations sociales",
+          "status": "planned"
+        },
+        {
+          "id": "b1-06-09",
+          "title": "Pratiquer : Relations sociales",
+          "status": "planned"
+        },
+        {
+          "id": "b1-06-10",
+          "title": "Évaluation : Relations sociales",
+          "status": "planned"
+        }
+      ]
+    },
+    {
+      "id": "b1-07",
+      "level": "B1",
+      "title": "La santé et le bien-être",
+      "lessons": [
+        {
+          "id": "b1-07-01",
+          "title": "Découvrir : La santé et le bien-être",
+          "status": "planned"
+        },
+        {
+          "id": "b1-07-02",
+          "title": "Comprendre : La santé et le bien-être",
+          "status": "planned"
+        },
+        {
+          "id": "b1-07-03",
+          "title": "Écouter : La santé et le bien-être",
+          "status": "planned"
+        },
+        {
+          "id": "b1-07-04",
+          "title": "Associer : La santé et le bien-être",
+          "status": "planned"
+        },
+        {
+          "id": "b1-07-05",
+          "title": "Construire : La santé et le bien-être",
+          "status": "planned"
+        },
+        {
+          "id": "b1-07-06",
+          "title": "Parler : La santé et le bien-être",
+          "status": "planned"
+        },
+        {
+          "id": "b1-07-07",
+          "title": "Dialoguer : La santé et le bien-être",
+          "status": "planned"
+        },
+        {
+          "id": "b1-07-08",
+          "title": "Réviser : La santé et le bien-être",
+          "status": "planned"
+        },
+        {
+          "id": "b1-07-09",
+          "title": "Pratiquer : La santé et le bien-être",
+          "status": "planned"
+        },
+        {
+          "id": "b1-07-10",
+          "title": "Évaluation : La santé et le bien-être",
+          "status": "planned"
+        }
+      ]
+    },
+    {
+      "id": "b1-08",
+      "level": "B1",
+      "title": "L’éducation",
+      "lessons": [
+        {
+          "id": "b1-08-01",
+          "title": "Découvrir : L’éducation",
+          "status": "planned"
+        },
+        {
+          "id": "b1-08-02",
+          "title": "Comprendre : L’éducation",
+          "status": "planned"
+        },
+        {
+          "id": "b1-08-03",
+          "title": "Écouter : L’éducation",
+          "status": "planned"
+        },
+        {
+          "id": "b1-08-04",
+          "title": "Associer : L’éducation",
+          "status": "planned"
+        },
+        {
+          "id": "b1-08-05",
+          "title": "Construire : L’éducation",
+          "status": "planned"
+        },
+        {
+          "id": "b1-08-06",
+          "title": "Parler : L’éducation",
+          "status": "planned"
+        },
+        {
+          "id": "b1-08-07",
+          "title": "Dialoguer : L’éducation",
+          "status": "planned"
+        },
+        {
+          "id": "b1-08-08",
+          "title": "Réviser : L’éducation",
+          "status": "planned"
+        },
+        {
+          "id": "b1-08-09",
+          "title": "Pratiquer : L’éducation",
+          "status": "planned"
+        },
+        {
+          "id": "b1-08-10",
+          "title": "Évaluation : L’éducation",
+          "status": "planned"
+        }
+      ]
+    },
+    {
+      "id": "b1-09",
+      "level": "B1",
+      "title": "Les médias",
+      "lessons": [
+        {
+          "id": "b1-09-01",
+          "title": "Découvrir : Les médias",
+          "status": "planned"
+        },
+        {
+          "id": "b1-09-02",
+          "title": "Comprendre : Les médias",
+          "status": "planned"
+        },
+        {
+          "id": "b1-09-03",
+          "title": "Écouter : Les médias",
+          "status": "planned"
+        },
+        {
+          "id": "b1-09-04",
+          "title": "Associer : Les médias",
+          "status": "planned"
+        },
+        {
+          "id": "b1-09-05",
+          "title": "Construire : Les médias",
+          "status": "planned"
+        },
+        {
+          "id": "b1-09-06",
+          "title": "Parler : Les médias",
+          "status": "planned"
+        },
+        {
+          "id": "b1-09-07",
+          "title": "Dialoguer : Les médias",
+          "status": "planned"
+        },
+        {
+          "id": "b1-09-08",
+          "title": "Réviser : Les médias",
+          "status": "planned"
+        },
+        {
+          "id": "b1-09-09",
+          "title": "Pratiquer : Les médias",
+          "status": "planned"
+        },
+        {
+          "id": "b1-09-10",
+          "title": "Évaluation : Les médias",
+          "status": "planned"
+        }
+      ]
+    },
+    {
+      "id": "b1-10",
+      "level": "B1",
+      "title": "Les technologies",
+      "lessons": [
+        {
+          "id": "b1-10-01",
+          "title": "Découvrir : Les technologies",
+          "status": "planned"
+        },
+        {
+          "id": "b1-10-02",
+          "title": "Comprendre : Les technologies",
+          "status": "planned"
+        },
+        {
+          "id": "b1-10-03",
+          "title": "Écouter : Les technologies",
+          "status": "planned"
+        },
+        {
+          "id": "b1-10-04",
+          "title": "Associer : Les technologies",
+          "status": "planned"
+        },
+        {
+          "id": "b1-10-05",
+          "title": "Construire : Les technologies",
+          "status": "planned"
+        },
+        {
+          "id": "b1-10-06",
+          "title": "Parler : Les technologies",
+          "status": "planned"
+        },
+        {
+          "id": "b1-10-07",
+          "title": "Dialoguer : Les technologies",
+          "status": "planned"
+        },
+        {
+          "id": "b1-10-08",
+          "title": "Réviser : Les technologies",
+          "status": "planned"
+        },
+        {
+          "id": "b1-10-09",
+          "title": "Pratiquer : Les technologies",
+          "status": "planned"
+        },
+        {
+          "id": "b1-10-10",
+          "title": "Évaluation : Les technologies",
+          "status": "planned"
+        }
+      ]
+    },
+    {
+      "id": "b1-11",
+      "level": "B1",
+      "title": "L’environnement",
+      "lessons": [
+        {
+          "id": "b1-11-01",
+          "title": "Découvrir : L’environnement",
+          "status": "planned"
+        },
+        {
+          "id": "b1-11-02",
+          "title": "Comprendre : L’environnement",
+          "status": "planned"
+        },
+        {
+          "id": "b1-11-03",
+          "title": "Écouter : L’environnement",
+          "status": "planned"
+        },
+        {
+          "id": "b1-11-04",
+          "title": "Associer : L’environnement",
+          "status": "planned"
+        },
+        {
+          "id": "b1-11-05",
+          "title": "Construire : L’environnement",
+          "status": "planned"
+        },
+        {
+          "id": "b1-11-06",
+          "title": "Parler : L’environnement",
+          "status": "planned"
+        },
+        {
+          "id": "b1-11-07",
+          "title": "Dialoguer : L’environnement",
+          "status": "planned"
+        },
+        {
+          "id": "b1-11-08",
+          "title": "Réviser : L’environnement",
+          "status": "planned"
+        },
+        {
+          "id": "b1-11-09",
+          "title": "Pratiquer : L’environnement",
+          "status": "planned"
+        },
+        {
+          "id": "b1-11-10",
+          "title": "Évaluation : L’environnement",
+          "status": "planned"
+        }
+      ]
+    },
+    {
+      "id": "b1-12",
+      "level": "B1",
+      "title": "La mobilité",
+      "lessons": [
+        {
+          "id": "b1-12-01",
+          "title": "Découvrir : La mobilité",
+          "status": "planned"
+        },
+        {
+          "id": "b1-12-02",
+          "title": "Comprendre : La mobilité",
+          "status": "planned"
+        },
+        {
+          "id": "b1-12-03",
+          "title": "Écouter : La mobilité",
+          "status": "planned"
+        },
+        {
+          "id": "b1-12-04",
+          "title": "Associer : La mobilité",
+          "status": "planned"
+        },
+        {
+          "id": "b1-12-05",
+          "title": "Construire : La mobilité",
+          "status": "planned"
+        },
+        {
+          "id": "b1-12-06",
+          "title": "Parler : La mobilité",
+          "status": "planned"
+        },
+        {
+          "id": "b1-12-07",
+          "title": "Dialoguer : La mobilité",
+          "status": "planned"
+        },
+        {
+          "id": "b1-12-08",
+          "title": "Réviser : La mobilité",
+          "status": "planned"
+        },
+        {
+          "id": "b1-12-09",
+          "title": "Pratiquer : La mobilité",
+          "status": "planned"
+        },
+        {
+          "id": "b1-12-10",
+          "title": "Évaluation : La mobilité",
+          "status": "planned"
+        }
+      ]
+    },
+    {
+      "id": "b1-13",
+      "level": "B1",
+      "title": "La vie au Luxembourg",
+      "lessons": [
+        {
+          "id": "b1-13-01",
+          "title": "Découvrir : La vie au Luxembourg",
+          "status": "planned"
+        },
+        {
+          "id": "b1-13-02",
+          "title": "Comprendre : La vie au Luxembourg",
+          "status": "planned"
+        },
+        {
+          "id": "b1-13-03",
+          "title": "Écouter : La vie au Luxembourg",
+          "status": "planned"
+        },
+        {
+          "id": "b1-13-04",
+          "title": "Associer : La vie au Luxembourg",
+          "status": "planned"
+        },
+        {
+          "id": "b1-13-05",
+          "title": "Construire : La vie au Luxembourg",
+          "status": "planned"
+        },
+        {
+          "id": "b1-13-06",
+          "title": "Parler : La vie au Luxembourg",
+          "status": "planned"
+        },
+        {
+          "id": "b1-13-07",
+          "title": "Dialoguer : La vie au Luxembourg",
+          "status": "planned"
+        },
+        {
+          "id": "b1-13-08",
+          "title": "Réviser : La vie au Luxembourg",
+          "status": "planned"
+        },
+        {
+          "id": "b1-13-09",
+          "title": "Pratiquer : La vie au Luxembourg",
+          "status": "planned"
+        },
+        {
+          "id": "b1-13-10",
+          "title": "Évaluation : La vie au Luxembourg",
+          "status": "planned"
+        }
+      ]
+    },
+    {
+      "id": "b1-14",
+      "level": "B1",
+      "title": "Les institutions",
+      "lessons": [
+        {
+          "id": "b1-14-01",
+          "title": "Découvrir : Les institutions",
+          "status": "planned"
+        },
+        {
+          "id": "b1-14-02",
+          "title": "Comprendre : Les institutions",
+          "status": "planned"
+        },
+        {
+          "id": "b1-14-03",
+          "title": "Écouter : Les institutions",
+          "status": "planned"
+        },
+        {
+          "id": "b1-14-04",
+          "title": "Associer : Les institutions",
+          "status": "planned"
+        },
+        {
+          "id": "b1-14-05",
+          "title": "Construire : Les institutions",
+          "status": "planned"
+        },
+        {
+          "id": "b1-14-06",
+          "title": "Parler : Les institutions",
+          "status": "planned"
+        },
+        {
+          "id": "b1-14-07",
+          "title": "Dialoguer : Les institutions",
+          "status": "planned"
+        },
+        {
+          "id": "b1-14-08",
+          "title": "Réviser : Les institutions",
+          "status": "planned"
+        },
+        {
+          "id": "b1-14-09",
+          "title": "Pratiquer : Les institutions",
+          "status": "planned"
+        },
+        {
+          "id": "b1-14-10",
+          "title": "Évaluation : Les institutions",
+          "status": "planned"
+        }
+      ]
+    },
+    {
+      "id": "b1-15",
+      "level": "B1",
+      "title": "Les services publics",
+      "lessons": [
+        {
+          "id": "b1-15-01",
+          "title": "Découvrir : Les services publics",
+          "status": "planned"
+        },
+        {
+          "id": "b1-15-02",
+          "title": "Comprendre : Les services publics",
+          "status": "planned"
+        },
+        {
+          "id": "b1-15-03",
+          "title": "Écouter : Les services publics",
+          "status": "planned"
+        },
+        {
+          "id": "b1-15-04",
+          "title": "Associer : Les services publics",
+          "status": "planned"
+        },
+        {
+          "id": "b1-15-05",
+          "title": "Construire : Les services publics",
+          "status": "planned"
+        },
+        {
+          "id": "b1-15-06",
+          "title": "Parler : Les services publics",
+          "status": "planned"
+        },
+        {
+          "id": "b1-15-07",
+          "title": "Dialoguer : Les services publics",
+          "status": "planned"
+        },
+        {
+          "id": "b1-15-08",
+          "title": "Réviser : Les services publics",
+          "status": "planned"
+        },
+        {
+          "id": "b1-15-09",
+          "title": "Pratiquer : Les services publics",
+          "status": "planned"
+        },
+        {
+          "id": "b1-15-10",
+          "title": "Évaluation : Les services publics",
+          "status": "planned"
+        }
+      ]
+    },
+    {
+      "id": "b1-16",
+      "level": "B1",
+      "title": "Le logement et le voisinage",
+      "lessons": [
+        {
+          "id": "b1-16-01",
+          "title": "Découvrir : Le logement et le voisinage",
+          "status": "planned"
+        },
+        {
+          "id": "b1-16-02",
+          "title": "Comprendre : Le logement et le voisinage",
+          "status": "planned"
+        },
+        {
+          "id": "b1-16-03",
+          "title": "Écouter : Le logement et le voisinage",
+          "status": "planned"
+        },
+        {
+          "id": "b1-16-04",
+          "title": "Associer : Le logement et le voisinage",
+          "status": "planned"
+        },
+        {
+          "id": "b1-16-05",
+          "title": "Construire : Le logement et le voisinage",
+          "status": "planned"
+        },
+        {
+          "id": "b1-16-06",
+          "title": "Parler : Le logement et le voisinage",
+          "status": "planned"
+        },
+        {
+          "id": "b1-16-07",
+          "title": "Dialoguer : Le logement et le voisinage",
+          "status": "planned"
+        },
+        {
+          "id": "b1-16-08",
+          "title": "Réviser : Le logement et le voisinage",
+          "status": "planned"
+        },
+        {
+          "id": "b1-16-09",
+          "title": "Pratiquer : Le logement et le voisinage",
+          "status": "planned"
+        },
+        {
+          "id": "b1-16-10",
+          "title": "Évaluation : Le logement et le voisinage",
+          "status": "planned"
+        }
+      ]
+    },
+    {
+      "id": "b1-17",
+      "level": "B1",
+      "title": "Les conflits",
+      "lessons": [
+        {
+          "id": "b1-17-01",
+          "title": "Découvrir : Les conflits",
+          "status": "planned"
+        },
+        {
+          "id": "b1-17-02",
+          "title": "Comprendre : Les conflits",
+          "status": "planned"
+        },
+        {
+          "id": "b1-17-03",
+          "title": "Écouter : Les conflits",
+          "status": "planned"
+        },
+        {
+          "id": "b1-17-04",
+          "title": "Associer : Les conflits",
+          "status": "planned"
+        },
+        {
+          "id": "b1-17-05",
+          "title": "Construire : Les conflits",
+          "status": "planned"
+        },
+        {
+          "id": "b1-17-06",
+          "title": "Parler : Les conflits",
+          "status": "planned"
+        },
+        {
+          "id": "b1-17-07",
+          "title": "Dialoguer : Les conflits",
+          "status": "planned"
+        },
+        {
+          "id": "b1-17-08",
+          "title": "Réviser : Les conflits",
+          "status": "planned"
+        },
+        {
+          "id": "b1-17-09",
+          "title": "Pratiquer : Les conflits",
+          "status": "planned"
+        },
+        {
+          "id": "b1-17-10",
+          "title": "Évaluation : Les conflits",
+          "status": "planned"
+        }
+      ]
+    },
+    {
+      "id": "b1-18",
+      "level": "B1",
+      "title": "Proposer des solutions",
+      "lessons": [
+        {
+          "id": "b1-18-01",
+          "title": "Découvrir : Proposer des solutions",
+          "status": "planned"
+        },
+        {
+          "id": "b1-18-02",
+          "title": "Comprendre : Proposer des solutions",
+          "status": "planned"
+        },
+        {
+          "id": "b1-18-03",
+          "title": "Écouter : Proposer des solutions",
+          "status": "planned"
+        },
+        {
+          "id": "b1-18-04",
+          "title": "Associer : Proposer des solutions",
+          "status": "planned"
+        },
+        {
+          "id": "b1-18-05",
+          "title": "Construire : Proposer des solutions",
+          "status": "planned"
+        },
+        {
+          "id": "b1-18-06",
+          "title": "Parler : Proposer des solutions",
+          "status": "planned"
+        },
+        {
+          "id": "b1-18-07",
+          "title": "Dialoguer : Proposer des solutions",
+          "status": "planned"
+        },
+        {
+          "id": "b1-18-08",
+          "title": "Réviser : Proposer des solutions",
+          "status": "planned"
+        },
+        {
+          "id": "b1-18-09",
+          "title": "Pratiquer : Proposer des solutions",
+          "status": "planned"
+        },
+        {
+          "id": "b1-18-10",
+          "title": "Évaluation : Proposer des solutions",
+          "status": "planned"
+        }
+      ]
+    },
+    {
+      "id": "b1-19",
+      "level": "B1",
+      "title": "Comprendre les informations",
+      "lessons": [
+        {
+          "id": "b1-19-01",
+          "title": "Découvrir : Comprendre les informations",
+          "status": "planned"
+        },
+        {
+          "id": "b1-19-02",
+          "title": "Comprendre : Comprendre les informations",
+          "status": "planned"
+        },
+        {
+          "id": "b1-19-03",
+          "title": "Écouter : Comprendre les informations",
+          "status": "planned"
+        },
+        {
+          "id": "b1-19-04",
+          "title": "Associer : Comprendre les informations",
+          "status": "planned"
+        },
+        {
+          "id": "b1-19-05",
+          "title": "Construire : Comprendre les informations",
+          "status": "planned"
+        },
+        {
+          "id": "b1-19-06",
+          "title": "Parler : Comprendre les informations",
+          "status": "planned"
+        },
+        {
+          "id": "b1-19-07",
+          "title": "Dialoguer : Comprendre les informations",
+          "status": "planned"
+        },
+        {
+          "id": "b1-19-08",
+          "title": "Réviser : Comprendre les informations",
+          "status": "planned"
+        },
+        {
+          "id": "b1-19-09",
+          "title": "Pratiquer : Comprendre les informations",
+          "status": "planned"
+        },
+        {
+          "id": "b1-19-10",
+          "title": "Évaluation : Comprendre les informations",
+          "status": "planned"
+        }
+      ]
+    },
+    {
+      "id": "b1-20",
+      "level": "B1",
+      "title": "Raconter des souvenirs",
+      "lessons": [
+        {
+          "id": "b1-20-01",
+          "title": "Découvrir : Raconter des souvenirs",
+          "status": "planned"
+        },
+        {
+          "id": "b1-20-02",
+          "title": "Comprendre : Raconter des souvenirs",
+          "status": "planned"
+        },
+        {
+          "id": "b1-20-03",
+          "title": "Écouter : Raconter des souvenirs",
+          "status": "planned"
+        },
+        {
+          "id": "b1-20-04",
+          "title": "Associer : Raconter des souvenirs",
+          "status": "planned"
+        },
+        {
+          "id": "b1-20-05",
+          "title": "Construire : Raconter des souvenirs",
+          "status": "planned"
+        },
+        {
+          "id": "b1-20-06",
+          "title": "Parler : Raconter des souvenirs",
+          "status": "planned"
+        },
+        {
+          "id": "b1-20-07",
+          "title": "Dialoguer : Raconter des souvenirs",
+          "status": "planned"
+        },
+        {
+          "id": "b1-20-08",
+          "title": "Réviser : Raconter des souvenirs",
+          "status": "planned"
+        },
+        {
+          "id": "b1-20-09",
+          "title": "Pratiquer : Raconter des souvenirs",
+          "status": "planned"
+        },
+        {
+          "id": "b1-20-10",
+          "title": "Évaluation : Raconter des souvenirs",
+          "status": "planned"
+        }
+      ]
+    },
+    {
+      "id": "b1-21",
+      "level": "B1",
+      "title": "Présenter un projet",
+      "lessons": [
+        {
+          "id": "b1-21-01",
+          "title": "Découvrir : Présenter un projet",
+          "status": "planned"
+        },
+        {
+          "id": "b1-21-02",
+          "title": "Comprendre : Présenter un projet",
+          "status": "planned"
+        },
+        {
+          "id": "b1-21-03",
+          "title": "Écouter : Présenter un projet",
+          "status": "planned"
+        },
+        {
+          "id": "b1-21-04",
+          "title": "Associer : Présenter un projet",
+          "status": "planned"
+        },
+        {
+          "id": "b1-21-05",
+          "title": "Construire : Présenter un projet",
+          "status": "planned"
+        },
+        {
+          "id": "b1-21-06",
+          "title": "Parler : Présenter un projet",
+          "status": "planned"
+        },
+        {
+          "id": "b1-21-07",
+          "title": "Dialoguer : Présenter un projet",
+          "status": "planned"
+        },
+        {
+          "id": "b1-21-08",
+          "title": "Réviser : Présenter un projet",
+          "status": "planned"
+        },
+        {
+          "id": "b1-21-09",
+          "title": "Pratiquer : Présenter un projet",
+          "status": "planned"
+        },
+        {
+          "id": "b1-21-10",
+          "title": "Évaluation : Présenter un projet",
+          "status": "planned"
+        }
+      ]
+    },
+    {
+      "id": "b1-22",
+      "level": "B1",
+      "title": "Débattre simplement",
+      "lessons": [
+        {
+          "id": "b1-22-01",
+          "title": "Découvrir : Débattre simplement",
+          "status": "planned"
+        },
+        {
+          "id": "b1-22-02",
+          "title": "Comprendre : Débattre simplement",
+          "status": "planned"
+        },
+        {
+          "id": "b1-22-03",
+          "title": "Écouter : Débattre simplement",
+          "status": "planned"
+        },
+        {
+          "id": "b1-22-04",
+          "title": "Associer : Débattre simplement",
+          "status": "planned"
+        },
+        {
+          "id": "b1-22-05",
+          "title": "Construire : Débattre simplement",
+          "status": "planned"
+        },
+        {
+          "id": "b1-22-06",
+          "title": "Parler : Débattre simplement",
+          "status": "planned"
+        },
+        {
+          "id": "b1-22-07",
+          "title": "Dialoguer : Débattre simplement",
+          "status": "planned"
+        },
+        {
+          "id": "b1-22-08",
+          "title": "Réviser : Débattre simplement",
+          "status": "planned"
+        },
+        {
+          "id": "b1-22-09",
+          "title": "Pratiquer : Débattre simplement",
+          "status": "planned"
+        },
+        {
+          "id": "b1-22-10",
+          "title": "Évaluation : Débattre simplement",
+          "status": "planned"
+        }
+      ]
+    },
+    {
+      "id": "b1-23",
+      "level": "B1",
+      "title": "Le Sproochentest oral",
+      "lessons": [
+        {
+          "id": "b1-23-01",
+          "title": "Découvrir : Le Sproochentest oral",
+          "status": "planned"
+        },
+        {
+          "id": "b1-23-02",
+          "title": "Comprendre : Le Sproochentest oral",
+          "status": "planned"
+        },
+        {
+          "id": "b1-23-03",
+          "title": "Écouter : Le Sproochentest oral",
+          "status": "planned"
+        },
+        {
+          "id": "b1-23-04",
+          "title": "Associer : Le Sproochentest oral",
+          "status": "planned"
+        },
+        {
+          "id": "b1-23-05",
+          "title": "Construire : Le Sproochentest oral",
+          "status": "planned"
+        },
+        {
+          "id": "b1-23-06",
+          "title": "Parler : Le Sproochentest oral",
+          "status": "planned"
+        },
+        {
+          "id": "b1-23-07",
+          "title": "Dialoguer : Le Sproochentest oral",
+          "status": "planned"
+        },
+        {
+          "id": "b1-23-08",
+          "title": "Réviser : Le Sproochentest oral",
+          "status": "planned"
+        },
+        {
+          "id": "b1-23-09",
+          "title": "Pratiquer : Le Sproochentest oral",
+          "status": "planned"
+        },
+        {
+          "id": "b1-23-10",
+          "title": "Évaluation : Le Sproochentest oral",
+          "status": "planned"
+        }
+      ]
+    },
+    {
+      "id": "b1-24",
+      "level": "B1",
+      "title": "Le Sproochentest écoute",
+      "lessons": [
+        {
+          "id": "b1-24-01",
+          "title": "Découvrir : Le Sproochentest écoute",
+          "status": "planned"
+        },
+        {
+          "id": "b1-24-02",
+          "title": "Comprendre : Le Sproochentest écoute",
+          "status": "planned"
+        },
+        {
+          "id": "b1-24-03",
+          "title": "Écouter : Le Sproochentest écoute",
+          "status": "planned"
+        },
+        {
+          "id": "b1-24-04",
+          "title": "Associer : Le Sproochentest écoute",
+          "status": "planned"
+        },
+        {
+          "id": "b1-24-05",
+          "title": "Construire : Le Sproochentest écoute",
+          "status": "planned"
+        },
+        {
+          "id": "b1-24-06",
+          "title": "Parler : Le Sproochentest écoute",
+          "status": "planned"
+        },
+        {
+          "id": "b1-24-07",
+          "title": "Dialoguer : Le Sproochentest écoute",
+          "status": "planned"
+        },
+        {
+          "id": "b1-24-08",
+          "title": "Réviser : Le Sproochentest écoute",
+          "status": "planned"
+        },
+        {
+          "id": "b1-24-09",
+          "title": "Pratiquer : Le Sproochentest écoute",
+          "status": "planned"
+        },
+        {
+          "id": "b1-24-10",
+          "title": "Évaluation : Le Sproochentest écoute",
+          "status": "planned"
+        }
+      ]
+    },
+    {
+      "id": "b1-25",
+      "level": "B1",
+      "title": "Bilan intermédiaire",
+      "lessons": [
+        {
+          "id": "b1-25-01",
+          "title": "Découvrir : Bilan intermédiaire",
+          "status": "planned"
+        },
+        {
+          "id": "b1-25-02",
+          "title": "Comprendre : Bilan intermédiaire",
+          "status": "planned"
+        },
+        {
+          "id": "b1-25-03",
+          "title": "Écouter : Bilan intermédiaire",
+          "status": "planned"
+        },
+        {
+          "id": "b1-25-04",
+          "title": "Associer : Bilan intermédiaire",
+          "status": "planned"
+        },
+        {
+          "id": "b1-25-05",
+          "title": "Construire : Bilan intermédiaire",
+          "status": "planned"
+        },
+        {
+          "id": "b1-25-06",
+          "title": "Parler : Bilan intermédiaire",
+          "status": "planned"
+        },
+        {
+          "id": "b1-25-07",
+          "title": "Dialoguer : Bilan intermédiaire",
+          "status": "planned"
+        },
+        {
+          "id": "b1-25-08",
+          "title": "Réviser : Bilan intermédiaire",
+          "status": "planned"
+        },
+        {
+          "id": "b1-25-09",
+          "title": "Pratiquer : Bilan intermédiaire",
+          "status": "planned"
+        },
+        {
+          "id": "b1-25-10",
+          "title": "Évaluation : Bilan intermédiaire",
+          "status": "planned"
+        }
+      ]
+    },
+    {
+      "id": "b2-01",
+      "level": "B2",
+      "title": "Débats et argumentation",
+      "lessons": [
+        {
+          "id": "b2-01-01",
+          "title": "Découvrir : Débats et argumentation",
+          "status": "planned"
+        },
+        {
+          "id": "b2-01-02",
+          "title": "Comprendre : Débats et argumentation",
+          "status": "planned"
+        },
+        {
+          "id": "b2-01-03",
+          "title": "Écouter : Débats et argumentation",
+          "status": "planned"
+        },
+        {
+          "id": "b2-01-04",
+          "title": "Associer : Débats et argumentation",
+          "status": "planned"
+        },
+        {
+          "id": "b2-01-05",
+          "title": "Construire : Débats et argumentation",
+          "status": "planned"
+        },
+        {
+          "id": "b2-01-06",
+          "title": "Parler : Débats et argumentation",
+          "status": "planned"
+        },
+        {
+          "id": "b2-01-07",
+          "title": "Dialoguer : Débats et argumentation",
+          "status": "planned"
+        },
+        {
+          "id": "b2-01-08",
+          "title": "Réviser : Débats et argumentation",
+          "status": "planned"
+        },
+        {
+          "id": "b2-01-09",
+          "title": "Pratiquer : Débats et argumentation",
+          "status": "planned"
+        },
+        {
+          "id": "b2-01-10",
+          "title": "Évaluation : Débats et argumentation",
+          "status": "planned"
+        }
+      ]
+    },
+    {
+      "id": "b2-02",
+      "level": "B2",
+      "title": "Nuancer son avis",
+      "lessons": [
+        {
+          "id": "b2-02-01",
+          "title": "Découvrir : Nuancer son avis",
+          "status": "planned"
+        },
+        {
+          "id": "b2-02-02",
+          "title": "Comprendre : Nuancer son avis",
+          "status": "planned"
+        },
+        {
+          "id": "b2-02-03",
+          "title": "Écouter : Nuancer son avis",
+          "status": "planned"
+        },
+        {
+          "id": "b2-02-04",
+          "title": "Associer : Nuancer son avis",
+          "status": "planned"
+        },
+        {
+          "id": "b2-02-05",
+          "title": "Construire : Nuancer son avis",
+          "status": "planned"
+        },
+        {
+          "id": "b2-02-06",
+          "title": "Parler : Nuancer son avis",
+          "status": "planned"
+        },
+        {
+          "id": "b2-02-07",
+          "title": "Dialoguer : Nuancer son avis",
+          "status": "planned"
+        },
+        {
+          "id": "b2-02-08",
+          "title": "Réviser : Nuancer son avis",
+          "status": "planned"
+        },
+        {
+          "id": "b2-02-09",
+          "title": "Pratiquer : Nuancer son avis",
+          "status": "planned"
+        },
+        {
+          "id": "b2-02-10",
+          "title": "Évaluation : Nuancer son avis",
+          "status": "planned"
+        }
+      ]
+    },
+    {
+      "id": "b2-03",
+      "level": "B2",
+      "title": "Hypothèses et conséquences",
+      "lessons": [
+        {
+          "id": "b2-03-01",
+          "title": "Découvrir : Hypothèses et conséquences",
+          "status": "planned"
+        },
+        {
+          "id": "b2-03-02",
+          "title": "Comprendre : Hypothèses et conséquences",
+          "status": "planned"
+        },
+        {
+          "id": "b2-03-03",
+          "title": "Écouter : Hypothèses et conséquences",
+          "status": "planned"
+        },
+        {
+          "id": "b2-03-04",
+          "title": "Associer : Hypothèses et conséquences",
+          "status": "planned"
+        },
+        {
+          "id": "b2-03-05",
+          "title": "Construire : Hypothèses et conséquences",
+          "status": "planned"
+        },
+        {
+          "id": "b2-03-06",
+          "title": "Parler : Hypothèses et conséquences",
+          "status": "planned"
+        },
+        {
+          "id": "b2-03-07",
+          "title": "Dialoguer : Hypothèses et conséquences",
+          "status": "planned"
+        },
+        {
+          "id": "b2-03-08",
+          "title": "Réviser : Hypothèses et conséquences",
+          "status": "planned"
+        },
+        {
+          "id": "b2-03-09",
+          "title": "Pratiquer : Hypothèses et conséquences",
+          "status": "planned"
+        },
+        {
+          "id": "b2-03-10",
+          "title": "Évaluation : Hypothèses et conséquences",
+          "status": "planned"
+        }
+      ]
+    },
+    {
+      "id": "b2-04",
+      "level": "B2",
+      "title": "Discours rapporté",
+      "lessons": [
+        {
+          "id": "b2-04-01",
+          "title": "Découvrir : Discours rapporté",
+          "status": "planned"
+        },
+        {
+          "id": "b2-04-02",
+          "title": "Comprendre : Discours rapporté",
+          "status": "planned"
+        },
+        {
+          "id": "b2-04-03",
+          "title": "Écouter : Discours rapporté",
+          "status": "planned"
+        },
+        {
+          "id": "b2-04-04",
+          "title": "Associer : Discours rapporté",
+          "status": "planned"
+        },
+        {
+          "id": "b2-04-05",
+          "title": "Construire : Discours rapporté",
+          "status": "planned"
+        },
+        {
+          "id": "b2-04-06",
+          "title": "Parler : Discours rapporté",
+          "status": "planned"
+        },
+        {
+          "id": "b2-04-07",
+          "title": "Dialoguer : Discours rapporté",
+          "status": "planned"
+        },
+        {
+          "id": "b2-04-08",
+          "title": "Réviser : Discours rapporté",
+          "status": "planned"
+        },
+        {
+          "id": "b2-04-09",
+          "title": "Pratiquer : Discours rapporté",
+          "status": "planned"
+        },
+        {
+          "id": "b2-04-10",
+          "title": "Évaluation : Discours rapporté",
+          "status": "planned"
+        }
+      ]
+    },
+    {
+      "id": "b2-05",
+      "level": "B2",
+      "title": "Compréhension de reportages",
+      "lessons": [
+        {
+          "id": "b2-05-01",
+          "title": "Découvrir : Compréhension de reportages",
+          "status": "planned"
+        },
+        {
+          "id": "b2-05-02",
+          "title": "Comprendre : Compréhension de reportages",
+          "status": "planned"
+        },
+        {
+          "id": "b2-05-03",
+          "title": "Écouter : Compréhension de reportages",
+          "status": "planned"
+        },
+        {
+          "id": "b2-05-04",
+          "title": "Associer : Compréhension de reportages",
+          "status": "planned"
+        },
+        {
+          "id": "b2-05-05",
+          "title": "Construire : Compréhension de reportages",
+          "status": "planned"
+        },
+        {
+          "id": "b2-05-06",
+          "title": "Parler : Compréhension de reportages",
+          "status": "planned"
+        },
+        {
+          "id": "b2-05-07",
+          "title": "Dialoguer : Compréhension de reportages",
+          "status": "planned"
+        },
+        {
+          "id": "b2-05-08",
+          "title": "Réviser : Compréhension de reportages",
+          "status": "planned"
+        },
+        {
+          "id": "b2-05-09",
+          "title": "Pratiquer : Compréhension de reportages",
+          "status": "planned"
+        },
+        {
+          "id": "b2-05-10",
+          "title": "Évaluation : Compréhension de reportages",
+          "status": "planned"
+        }
+      ]
+    },
+    {
+      "id": "b2-06",
+      "level": "B2",
+      "title": "Réunions professionnelles",
+      "lessons": [
+        {
+          "id": "b2-06-01",
+          "title": "Découvrir : Réunions professionnelles",
+          "status": "planned"
+        },
+        {
+          "id": "b2-06-02",
+          "title": "Comprendre : Réunions professionnelles",
+          "status": "planned"
+        },
+        {
+          "id": "b2-06-03",
+          "title": "Écouter : Réunions professionnelles",
+          "status": "planned"
+        },
+        {
+          "id": "b2-06-04",
+          "title": "Associer : Réunions professionnelles",
+          "status": "planned"
+        },
+        {
+          "id": "b2-06-05",
+          "title": "Construire : Réunions professionnelles",
+          "status": "planned"
+        },
+        {
+          "id": "b2-06-06",
+          "title": "Parler : Réunions professionnelles",
+          "status": "planned"
+        },
+        {
+          "id": "b2-06-07",
+          "title": "Dialoguer : Réunions professionnelles",
+          "status": "planned"
+        },
+        {
+          "id": "b2-06-08",
+          "title": "Réviser : Réunions professionnelles",
+          "status": "planned"
+        },
+        {
+          "id": "b2-06-09",
+          "title": "Pratiquer : Réunions professionnelles",
+          "status": "planned"
+        },
+        {
+          "id": "b2-06-10",
+          "title": "Évaluation : Réunions professionnelles",
+          "status": "planned"
+        }
+      ]
+    },
+    {
+      "id": "b2-07",
+      "level": "B2",
+      "title": "Négocier et convaincre",
+      "lessons": [
+        {
+          "id": "b2-07-01",
+          "title": "Découvrir : Négocier et convaincre",
+          "status": "planned"
+        },
+        {
+          "id": "b2-07-02",
+          "title": "Comprendre : Négocier et convaincre",
+          "status": "planned"
+        },
+        {
+          "id": "b2-07-03",
+          "title": "Écouter : Négocier et convaincre",
+          "status": "planned"
+        },
+        {
+          "id": "b2-07-04",
+          "title": "Associer : Négocier et convaincre",
+          "status": "planned"
+        },
+        {
+          "id": "b2-07-05",
+          "title": "Construire : Négocier et convaincre",
+          "status": "planned"
+        },
+        {
+          "id": "b2-07-06",
+          "title": "Parler : Négocier et convaincre",
+          "status": "planned"
+        },
+        {
+          "id": "b2-07-07",
+          "title": "Dialoguer : Négocier et convaincre",
+          "status": "planned"
+        },
+        {
+          "id": "b2-07-08",
+          "title": "Réviser : Négocier et convaincre",
+          "status": "planned"
+        },
+        {
+          "id": "b2-07-09",
+          "title": "Pratiquer : Négocier et convaincre",
+          "status": "planned"
+        },
+        {
+          "id": "b2-07-10",
+          "title": "Évaluation : Négocier et convaincre",
+          "status": "planned"
+        }
+      ]
+    },
+    {
+      "id": "b2-08",
+      "level": "B2",
+      "title": "Écrire formellement",
+      "lessons": [
+        {
+          "id": "b2-08-01",
+          "title": "Découvrir : Écrire formellement",
+          "status": "planned"
+        },
+        {
+          "id": "b2-08-02",
+          "title": "Comprendre : Écrire formellement",
+          "status": "planned"
+        },
+        {
+          "id": "b2-08-03",
+          "title": "Écouter : Écrire formellement",
+          "status": "planned"
+        },
+        {
+          "id": "b2-08-04",
+          "title": "Associer : Écrire formellement",
+          "status": "planned"
+        },
+        {
+          "id": "b2-08-05",
+          "title": "Construire : Écrire formellement",
+          "status": "planned"
+        },
+        {
+          "id": "b2-08-06",
+          "title": "Parler : Écrire formellement",
+          "status": "planned"
+        },
+        {
+          "id": "b2-08-07",
+          "title": "Dialoguer : Écrire formellement",
+          "status": "planned"
+        },
+        {
+          "id": "b2-08-08",
+          "title": "Réviser : Écrire formellement",
+          "status": "planned"
+        },
+        {
+          "id": "b2-08-09",
+          "title": "Pratiquer : Écrire formellement",
+          "status": "planned"
+        },
+        {
+          "id": "b2-08-10",
+          "title": "Évaluation : Écrire formellement",
+          "status": "planned"
+        }
+      ]
+    },
+    {
+      "id": "b2-09",
+      "level": "B2",
+      "title": "Communication interculturelle",
+      "lessons": [
+        {
+          "id": "b2-09-01",
+          "title": "Découvrir : Communication interculturelle",
+          "status": "planned"
+        },
+        {
+          "id": "b2-09-02",
+          "title": "Comprendre : Communication interculturelle",
+          "status": "planned"
+        },
+        {
+          "id": "b2-09-03",
+          "title": "Écouter : Communication interculturelle",
+          "status": "planned"
+        },
+        {
+          "id": "b2-09-04",
+          "title": "Associer : Communication interculturelle",
+          "status": "planned"
+        },
+        {
+          "id": "b2-09-05",
+          "title": "Construire : Communication interculturelle",
+          "status": "planned"
+        },
+        {
+          "id": "b2-09-06",
+          "title": "Parler : Communication interculturelle",
+          "status": "planned"
+        },
+        {
+          "id": "b2-09-07",
+          "title": "Dialoguer : Communication interculturelle",
+          "status": "planned"
+        },
+        {
+          "id": "b2-09-08",
+          "title": "Réviser : Communication interculturelle",
+          "status": "planned"
+        },
+        {
+          "id": "b2-09-09",
+          "title": "Pratiquer : Communication interculturelle",
+          "status": "planned"
+        },
+        {
+          "id": "b2-09-10",
+          "title": "Évaluation : Communication interculturelle",
+          "status": "planned"
+        }
+      ]
+    },
+    {
+      "id": "b2-10",
+      "level": "B2",
+      "title": "Société luxembourgeoise",
+      "lessons": [
+        {
+          "id": "b2-10-01",
+          "title": "Découvrir : Société luxembourgeoise",
+          "status": "planned"
+        },
+        {
+          "id": "b2-10-02",
+          "title": "Comprendre : Société luxembourgeoise",
+          "status": "planned"
+        },
+        {
+          "id": "b2-10-03",
+          "title": "Écouter : Société luxembourgeoise",
+          "status": "planned"
+        },
+        {
+          "id": "b2-10-04",
+          "title": "Associer : Société luxembourgeoise",
+          "status": "planned"
+        },
+        {
+          "id": "b2-10-05",
+          "title": "Construire : Société luxembourgeoise",
+          "status": "planned"
+        },
+        {
+          "id": "b2-10-06",
+          "title": "Parler : Société luxembourgeoise",
+          "status": "planned"
+        },
+        {
+          "id": "b2-10-07",
+          "title": "Dialoguer : Société luxembourgeoise",
+          "status": "planned"
+        },
+        {
+          "id": "b2-10-08",
+          "title": "Réviser : Société luxembourgeoise",
+          "status": "planned"
+        },
+        {
+          "id": "b2-10-09",
+          "title": "Pratiquer : Société luxembourgeoise",
+          "status": "planned"
+        },
+        {
+          "id": "b2-10-10",
+          "title": "Évaluation : Société luxembourgeoise",
+          "status": "planned"
+        }
+      ]
+    },
+    {
+      "id": "b2-11",
+      "level": "B2",
+      "title": "Économie et emploi",
+      "lessons": [
+        {
+          "id": "b2-11-01",
+          "title": "Découvrir : Économie et emploi",
+          "status": "planned"
+        },
+        {
+          "id": "b2-11-02",
+          "title": "Comprendre : Économie et emploi",
+          "status": "planned"
+        },
+        {
+          "id": "b2-11-03",
+          "title": "Écouter : Économie et emploi",
+          "status": "planned"
+        },
+        {
+          "id": "b2-11-04",
+          "title": "Associer : Économie et emploi",
+          "status": "planned"
+        },
+        {
+          "id": "b2-11-05",
+          "title": "Construire : Économie et emploi",
+          "status": "planned"
+        },
+        {
+          "id": "b2-11-06",
+          "title": "Parler : Économie et emploi",
+          "status": "planned"
+        },
+        {
+          "id": "b2-11-07",
+          "title": "Dialoguer : Économie et emploi",
+          "status": "planned"
+        },
+        {
+          "id": "b2-11-08",
+          "title": "Réviser : Économie et emploi",
+          "status": "planned"
+        },
+        {
+          "id": "b2-11-09",
+          "title": "Pratiquer : Économie et emploi",
+          "status": "planned"
+        },
+        {
+          "id": "b2-11-10",
+          "title": "Évaluation : Économie et emploi",
+          "status": "planned"
+        }
+      ]
+    },
+    {
+      "id": "b2-12",
+      "level": "B2",
+      "title": "Enjeux environnementaux",
+      "lessons": [
+        {
+          "id": "b2-12-01",
+          "title": "Découvrir : Enjeux environnementaux",
+          "status": "planned"
+        },
+        {
+          "id": "b2-12-02",
+          "title": "Comprendre : Enjeux environnementaux",
+          "status": "planned"
+        },
+        {
+          "id": "b2-12-03",
+          "title": "Écouter : Enjeux environnementaux",
+          "status": "planned"
+        },
+        {
+          "id": "b2-12-04",
+          "title": "Associer : Enjeux environnementaux",
+          "status": "planned"
+        },
+        {
+          "id": "b2-12-05",
+          "title": "Construire : Enjeux environnementaux",
+          "status": "planned"
+        },
+        {
+          "id": "b2-12-06",
+          "title": "Parler : Enjeux environnementaux",
+          "status": "planned"
+        },
+        {
+          "id": "b2-12-07",
+          "title": "Dialoguer : Enjeux environnementaux",
+          "status": "planned"
+        },
+        {
+          "id": "b2-12-08",
+          "title": "Réviser : Enjeux environnementaux",
+          "status": "planned"
+        },
+        {
+          "id": "b2-12-09",
+          "title": "Pratiquer : Enjeux environnementaux",
+          "status": "planned"
+        },
+        {
+          "id": "b2-12-10",
+          "title": "Évaluation : Enjeux environnementaux",
+          "status": "planned"
+        }
+      ]
+    },
+    {
+      "id": "b2-13",
+      "level": "B2",
+      "title": "Santé publique",
+      "lessons": [
+        {
+          "id": "b2-13-01",
+          "title": "Découvrir : Santé publique",
+          "status": "planned"
+        },
+        {
+          "id": "b2-13-02",
+          "title": "Comprendre : Santé publique",
+          "status": "planned"
+        },
+        {
+          "id": "b2-13-03",
+          "title": "Écouter : Santé publique",
+          "status": "planned"
+        },
+        {
+          "id": "b2-13-04",
+          "title": "Associer : Santé publique",
+          "status": "planned"
+        },
+        {
+          "id": "b2-13-05",
+          "title": "Construire : Santé publique",
+          "status": "planned"
+        },
+        {
+          "id": "b2-13-06",
+          "title": "Parler : Santé publique",
+          "status": "planned"
+        },
+        {
+          "id": "b2-13-07",
+          "title": "Dialoguer : Santé publique",
+          "status": "planned"
+        },
+        {
+          "id": "b2-13-08",
+          "title": "Réviser : Santé publique",
+          "status": "planned"
+        },
+        {
+          "id": "b2-13-09",
+          "title": "Pratiquer : Santé publique",
+          "status": "planned"
+        },
+        {
+          "id": "b2-13-10",
+          "title": "Évaluation : Santé publique",
+          "status": "planned"
+        }
+      ]
+    },
+    {
+      "id": "b2-14",
+      "level": "B2",
+      "title": "Éducation et inclusion",
+      "lessons": [
+        {
+          "id": "b2-14-01",
+          "title": "Découvrir : Éducation et inclusion",
+          "status": "planned"
+        },
+        {
+          "id": "b2-14-02",
+          "title": "Comprendre : Éducation et inclusion",
+          "status": "planned"
+        },
+        {
+          "id": "b2-14-03",
+          "title": "Écouter : Éducation et inclusion",
+          "status": "planned"
+        },
+        {
+          "id": "b2-14-04",
+          "title": "Associer : Éducation et inclusion",
+          "status": "planned"
+        },
+        {
+          "id": "b2-14-05",
+          "title": "Construire : Éducation et inclusion",
+          "status": "planned"
+        },
+        {
+          "id": "b2-14-06",
+          "title": "Parler : Éducation et inclusion",
+          "status": "planned"
+        },
+        {
+          "id": "b2-14-07",
+          "title": "Dialoguer : Éducation et inclusion",
+          "status": "planned"
+        },
+        {
+          "id": "b2-14-08",
+          "title": "Réviser : Éducation et inclusion",
+          "status": "planned"
+        },
+        {
+          "id": "b2-14-09",
+          "title": "Pratiquer : Éducation et inclusion",
+          "status": "planned"
+        },
+        {
+          "id": "b2-14-10",
+          "title": "Évaluation : Éducation et inclusion",
+          "status": "planned"
+        }
+      ]
+    },
+    {
+      "id": "b2-15",
+      "level": "B2",
+      "title": "Culture et patrimoine",
+      "lessons": [
+        {
+          "id": "b2-15-01",
+          "title": "Découvrir : Culture et patrimoine",
+          "status": "planned"
+        },
+        {
+          "id": "b2-15-02",
+          "title": "Comprendre : Culture et patrimoine",
+          "status": "planned"
+        },
+        {
+          "id": "b2-15-03",
+          "title": "Écouter : Culture et patrimoine",
+          "status": "planned"
+        },
+        {
+          "id": "b2-15-04",
+          "title": "Associer : Culture et patrimoine",
+          "status": "planned"
+        },
+        {
+          "id": "b2-15-05",
+          "title": "Construire : Culture et patrimoine",
+          "status": "planned"
+        },
+        {
+          "id": "b2-15-06",
+          "title": "Parler : Culture et patrimoine",
+          "status": "planned"
+        },
+        {
+          "id": "b2-15-07",
+          "title": "Dialoguer : Culture et patrimoine",
+          "status": "planned"
+        },
+        {
+          "id": "b2-15-08",
+          "title": "Réviser : Culture et patrimoine",
+          "status": "planned"
+        },
+        {
+          "id": "b2-15-09",
+          "title": "Pratiquer : Culture et patrimoine",
+          "status": "planned"
+        },
+        {
+          "id": "b2-15-10",
+          "title": "Évaluation : Culture et patrimoine",
+          "status": "planned"
+        }
+      ]
+    },
+    {
+      "id": "b2-16",
+      "level": "B2",
+      "title": "Droit et citoyenneté",
+      "lessons": [
+        {
+          "id": "b2-16-01",
+          "title": "Découvrir : Droit et citoyenneté",
+          "status": "planned"
+        },
+        {
+          "id": "b2-16-02",
+          "title": "Comprendre : Droit et citoyenneté",
+          "status": "planned"
+        },
+        {
+          "id": "b2-16-03",
+          "title": "Écouter : Droit et citoyenneté",
+          "status": "planned"
+        },
+        {
+          "id": "b2-16-04",
+          "title": "Associer : Droit et citoyenneté",
+          "status": "planned"
+        },
+        {
+          "id": "b2-16-05",
+          "title": "Construire : Droit et citoyenneté",
+          "status": "planned"
+        },
+        {
+          "id": "b2-16-06",
+          "title": "Parler : Droit et citoyenneté",
+          "status": "planned"
+        },
+        {
+          "id": "b2-16-07",
+          "title": "Dialoguer : Droit et citoyenneté",
+          "status": "planned"
+        },
+        {
+          "id": "b2-16-08",
+          "title": "Réviser : Droit et citoyenneté",
+          "status": "planned"
+        },
+        {
+          "id": "b2-16-09",
+          "title": "Pratiquer : Droit et citoyenneté",
+          "status": "planned"
+        },
+        {
+          "id": "b2-16-10",
+          "title": "Évaluation : Droit et citoyenneté",
+          "status": "planned"
+        }
+      ]
+    },
+    {
+      "id": "b2-17",
+      "level": "B2",
+      "title": "Analyse d’articles",
+      "lessons": [
+        {
+          "id": "b2-17-01",
+          "title": "Découvrir : Analyse d’articles",
+          "status": "planned"
+        },
+        {
+          "id": "b2-17-02",
+          "title": "Comprendre : Analyse d’articles",
+          "status": "planned"
+        },
+        {
+          "id": "b2-17-03",
+          "title": "Écouter : Analyse d’articles",
+          "status": "planned"
+        },
+        {
+          "id": "b2-17-04",
+          "title": "Associer : Analyse d’articles",
+          "status": "planned"
+        },
+        {
+          "id": "b2-17-05",
+          "title": "Construire : Analyse d’articles",
+          "status": "planned"
+        },
+        {
+          "id": "b2-17-06",
+          "title": "Parler : Analyse d’articles",
+          "status": "planned"
+        },
+        {
+          "id": "b2-17-07",
+          "title": "Dialoguer : Analyse d’articles",
+          "status": "planned"
+        },
+        {
+          "id": "b2-17-08",
+          "title": "Réviser : Analyse d’articles",
+          "status": "planned"
+        },
+        {
+          "id": "b2-17-09",
+          "title": "Pratiquer : Analyse d’articles",
+          "status": "planned"
+        },
+        {
+          "id": "b2-17-10",
+          "title": "Évaluation : Analyse d’articles",
+          "status": "planned"
+        }
+      ]
+    },
+    {
+      "id": "b2-18",
+      "level": "B2",
+      "title": "Présentations structurées",
+      "lessons": [
+        {
+          "id": "b2-18-01",
+          "title": "Découvrir : Présentations structurées",
+          "status": "planned"
+        },
+        {
+          "id": "b2-18-02",
+          "title": "Comprendre : Présentations structurées",
+          "status": "planned"
+        },
+        {
+          "id": "b2-18-03",
+          "title": "Écouter : Présentations structurées",
+          "status": "planned"
+        },
+        {
+          "id": "b2-18-04",
+          "title": "Associer : Présentations structurées",
+          "status": "planned"
+        },
+        {
+          "id": "b2-18-05",
+          "title": "Construire : Présentations structurées",
+          "status": "planned"
+        },
+        {
+          "id": "b2-18-06",
+          "title": "Parler : Présentations structurées",
+          "status": "planned"
+        },
+        {
+          "id": "b2-18-07",
+          "title": "Dialoguer : Présentations structurées",
+          "status": "planned"
+        },
+        {
+          "id": "b2-18-08",
+          "title": "Réviser : Présentations structurées",
+          "status": "planned"
+        },
+        {
+          "id": "b2-18-09",
+          "title": "Pratiquer : Présentations structurées",
+          "status": "planned"
+        },
+        {
+          "id": "b2-18-10",
+          "title": "Évaluation : Présentations structurées",
+          "status": "planned"
+        }
+      ]
+    },
+    {
+      "id": "b2-19",
+      "level": "B2",
+      "title": "Conversations spontanées",
+      "lessons": [
+        {
+          "id": "b2-19-01",
+          "title": "Découvrir : Conversations spontanées",
+          "status": "planned"
+        },
+        {
+          "id": "b2-19-02",
+          "title": "Comprendre : Conversations spontanées",
+          "status": "planned"
+        },
+        {
+          "id": "b2-19-03",
+          "title": "Écouter : Conversations spontanées",
+          "status": "planned"
+        },
+        {
+          "id": "b2-19-04",
+          "title": "Associer : Conversations spontanées",
+          "status": "planned"
+        },
+        {
+          "id": "b2-19-05",
+          "title": "Construire : Conversations spontanées",
+          "status": "planned"
+        },
+        {
+          "id": "b2-19-06",
+          "title": "Parler : Conversations spontanées",
+          "status": "planned"
+        },
+        {
+          "id": "b2-19-07",
+          "title": "Dialoguer : Conversations spontanées",
+          "status": "planned"
+        },
+        {
+          "id": "b2-19-08",
+          "title": "Réviser : Conversations spontanées",
+          "status": "planned"
+        },
+        {
+          "id": "b2-19-09",
+          "title": "Pratiquer : Conversations spontanées",
+          "status": "planned"
+        },
+        {
+          "id": "b2-19-10",
+          "title": "Évaluation : Conversations spontanées",
+          "status": "planned"
+        }
+      ]
+    },
+    {
+      "id": "b2-20",
+      "level": "B2",
+      "title": "Expressions idiomatiques",
+      "lessons": [
+        {
+          "id": "b2-20-01",
+          "title": "Découvrir : Expressions idiomatiques",
+          "status": "planned"
+        },
+        {
+          "id": "b2-20-02",
+          "title": "Comprendre : Expressions idiomatiques",
+          "status": "planned"
+        },
+        {
+          "id": "b2-20-03",
+          "title": "Écouter : Expressions idiomatiques",
+          "status": "planned"
+        },
+        {
+          "id": "b2-20-04",
+          "title": "Associer : Expressions idiomatiques",
+          "status": "planned"
+        },
+        {
+          "id": "b2-20-05",
+          "title": "Construire : Expressions idiomatiques",
+          "status": "planned"
+        },
+        {
+          "id": "b2-20-06",
+          "title": "Parler : Expressions idiomatiques",
+          "status": "planned"
+        },
+        {
+          "id": "b2-20-07",
+          "title": "Dialoguer : Expressions idiomatiques",
+          "status": "planned"
+        },
+        {
+          "id": "b2-20-08",
+          "title": "Réviser : Expressions idiomatiques",
+          "status": "planned"
+        },
+        {
+          "id": "b2-20-09",
+          "title": "Pratiquer : Expressions idiomatiques",
+          "status": "planned"
+        },
+        {
+          "id": "b2-20-10",
+          "title": "Évaluation : Expressions idiomatiques",
+          "status": "planned"
+        }
+      ]
+    },
+    {
+      "id": "b2-21",
+      "level": "B2",
+      "title": "Registres de langue",
+      "lessons": [
+        {
+          "id": "b2-21-01",
+          "title": "Découvrir : Registres de langue",
+          "status": "planned"
+        },
+        {
+          "id": "b2-21-02",
+          "title": "Comprendre : Registres de langue",
+          "status": "planned"
+        },
+        {
+          "id": "b2-21-03",
+          "title": "Écouter : Registres de langue",
+          "status": "planned"
+        },
+        {
+          "id": "b2-21-04",
+          "title": "Associer : Registres de langue",
+          "status": "planned"
+        },
+        {
+          "id": "b2-21-05",
+          "title": "Construire : Registres de langue",
+          "status": "planned"
+        },
+        {
+          "id": "b2-21-06",
+          "title": "Parler : Registres de langue",
+          "status": "planned"
+        },
+        {
+          "id": "b2-21-07",
+          "title": "Dialoguer : Registres de langue",
+          "status": "planned"
+        },
+        {
+          "id": "b2-21-08",
+          "title": "Réviser : Registres de langue",
+          "status": "planned"
+        },
+        {
+          "id": "b2-21-09",
+          "title": "Pratiquer : Registres de langue",
+          "status": "planned"
+        },
+        {
+          "id": "b2-21-10",
+          "title": "Évaluation : Registres de langue",
+          "status": "planned"
+        }
+      ]
+    },
+    {
+      "id": "b2-22",
+      "level": "B2",
+      "title": "Grammaire avancée",
+      "lessons": [
+        {
+          "id": "b2-22-01",
+          "title": "Découvrir : Grammaire avancée",
+          "status": "planned"
+        },
+        {
+          "id": "b2-22-02",
+          "title": "Comprendre : Grammaire avancée",
+          "status": "planned"
+        },
+        {
+          "id": "b2-22-03",
+          "title": "Écouter : Grammaire avancée",
+          "status": "planned"
+        },
+        {
+          "id": "b2-22-04",
+          "title": "Associer : Grammaire avancée",
+          "status": "planned"
+        },
+        {
+          "id": "b2-22-05",
+          "title": "Construire : Grammaire avancée",
+          "status": "planned"
+        },
+        {
+          "id": "b2-22-06",
+          "title": "Parler : Grammaire avancée",
+          "status": "planned"
+        },
+        {
+          "id": "b2-22-07",
+          "title": "Dialoguer : Grammaire avancée",
+          "status": "planned"
+        },
+        {
+          "id": "b2-22-08",
+          "title": "Réviser : Grammaire avancée",
+          "status": "planned"
+        },
+        {
+          "id": "b2-22-09",
+          "title": "Pratiquer : Grammaire avancée",
+          "status": "planned"
+        },
+        {
+          "id": "b2-22-10",
+          "title": "Évaluation : Grammaire avancée",
+          "status": "planned"
+        }
+      ]
+    },
+    {
+      "id": "b2-23",
+      "level": "B2",
+      "title": "Écoute approfondie",
+      "lessons": [
+        {
+          "id": "b2-23-01",
+          "title": "Découvrir : Écoute approfondie",
+          "status": "planned"
+        },
+        {
+          "id": "b2-23-02",
+          "title": "Comprendre : Écoute approfondie",
+          "status": "planned"
+        },
+        {
+          "id": "b2-23-03",
+          "title": "Écouter : Écoute approfondie",
+          "status": "planned"
+        },
+        {
+          "id": "b2-23-04",
+          "title": "Associer : Écoute approfondie",
+          "status": "planned"
+        },
+        {
+          "id": "b2-23-05",
+          "title": "Construire : Écoute approfondie",
+          "status": "planned"
+        },
+        {
+          "id": "b2-23-06",
+          "title": "Parler : Écoute approfondie",
+          "status": "planned"
+        },
+        {
+          "id": "b2-23-07",
+          "title": "Dialoguer : Écoute approfondie",
+          "status": "planned"
+        },
+        {
+          "id": "b2-23-08",
+          "title": "Réviser : Écoute approfondie",
+          "status": "planned"
+        },
+        {
+          "id": "b2-23-09",
+          "title": "Pratiquer : Écoute approfondie",
+          "status": "planned"
+        },
+        {
+          "id": "b2-23-10",
+          "title": "Évaluation : Écoute approfondie",
+          "status": "planned"
+        }
+      ]
+    },
+    {
+      "id": "b2-24",
+      "level": "B2",
+      "title": "Simulation d’entretien",
+      "lessons": [
+        {
+          "id": "b2-24-01",
+          "title": "Découvrir : Simulation d’entretien",
+          "status": "planned"
+        },
+        {
+          "id": "b2-24-02",
+          "title": "Comprendre : Simulation d’entretien",
+          "status": "planned"
+        },
+        {
+          "id": "b2-24-03",
+          "title": "Écouter : Simulation d’entretien",
+          "status": "planned"
+        },
+        {
+          "id": "b2-24-04",
+          "title": "Associer : Simulation d’entretien",
+          "status": "planned"
+        },
+        {
+          "id": "b2-24-05",
+          "title": "Construire : Simulation d’entretien",
+          "status": "planned"
+        },
+        {
+          "id": "b2-24-06",
+          "title": "Parler : Simulation d’entretien",
+          "status": "planned"
+        },
+        {
+          "id": "b2-24-07",
+          "title": "Dialoguer : Simulation d’entretien",
+          "status": "planned"
+        },
+        {
+          "id": "b2-24-08",
+          "title": "Réviser : Simulation d’entretien",
+          "status": "planned"
+        },
+        {
+          "id": "b2-24-09",
+          "title": "Pratiquer : Simulation d’entretien",
+          "status": "planned"
+        },
+        {
+          "id": "b2-24-10",
+          "title": "Évaluation : Simulation d’entretien",
+          "status": "planned"
+        }
+      ]
+    },
+    {
+      "id": "b2-25",
+      "level": "B2",
+      "title": "Évaluation finale",
+      "lessons": [
+        {
+          "id": "b2-25-01",
+          "title": "Découvrir : Évaluation finale",
+          "status": "planned"
+        },
+        {
+          "id": "b2-25-02",
+          "title": "Comprendre : Évaluation finale",
+          "status": "planned"
+        },
+        {
+          "id": "b2-25-03",
+          "title": "Écouter : Évaluation finale",
+          "status": "planned"
+        },
+        {
+          "id": "b2-25-04",
+          "title": "Associer : Évaluation finale",
+          "status": "planned"
+        },
+        {
+          "id": "b2-25-05",
+          "title": "Construire : Évaluation finale",
+          "status": "planned"
+        },
+        {
+          "id": "b2-25-06",
+          "title": "Parler : Évaluation finale",
+          "status": "planned"
+        },
+        {
+          "id": "b2-25-07",
+          "title": "Dialoguer : Évaluation finale",
+          "status": "planned"
+        },
+        {
+          "id": "b2-25-08",
+          "title": "Réviser : Évaluation finale",
+          "status": "planned"
+        },
+        {
+          "id": "b2-25-09",
+          "title": "Pratiquer : Évaluation finale",
+          "status": "planned"
+        },
+        {
+          "id": "b2-25-10",
+          "title": "Évaluation : Évaluation finale",
+          "status": "planned"
+        }
+      ]
+    }
+  ],
+  "targetExercisesPerLesson": 15,
+  "note": "Objectif de production : 1000 leçons et 15000 exercices. Seules les deux premières leçons disposent pour le moment de contenu jouable."
+}

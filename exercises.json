@@ -1,0 +1,406 @@
+{
+  "a1-01-01": [
+    {
+      "type": "choice",
+      "prompt": "Que signifie « Moien » ?",
+      "options": [
+        "Bonjour",
+        "Au revoir",
+        "Merci",
+        "Pardon"
+      ],
+      "answer": "Bonjour",
+      "say": "Moien"
+    },
+    {
+      "type": "choice",
+      "prompt": "Comment dit-on « Merci » ?",
+      "options": [
+        "Äddi",
+        "Merci",
+        "Jo",
+        "Nee"
+      ],
+      "answer": "Merci",
+      "say": "Merci"
+    },
+    {
+      "type": "choice",
+      "prompt": "Que signifie « Äddi » ?",
+      "options": [
+        "Bonjour",
+        "Au revoir",
+        "Oui",
+        "Non"
+      ],
+      "answer": "Au revoir",
+      "say": "Äddi"
+    },
+    {
+      "type": "choice",
+      "prompt": "Comment dit-on « Oui » ?",
+      "options": [
+        "Nee",
+        "Jo",
+        "Moien",
+        "W.e.g."
+      ],
+      "answer": "Jo",
+      "say": "Jo"
+    },
+    {
+      "type": "choice",
+      "prompt": "Que signifie « Nee » ?",
+      "options": [
+        "Non",
+        "Oui",
+        "Merci",
+        "Salut"
+      ],
+      "answer": "Non",
+      "say": "Nee"
+    },
+    {
+      "type": "choice",
+      "prompt": "Que signifie « Wéi geet et dir? » ?",
+      "options": [
+        "Comment vas-tu ?",
+        "Quel âge as-tu ?",
+        "Où habites-tu ?",
+        "À bientôt"
+      ],
+      "answer": "Comment vas-tu ?",
+      "say": "Wéi geet et dir"
+    },
+    {
+      "type": "choice",
+      "prompt": "Comment dire « Je vais bien » ?",
+      "options": [
+        "Ech sinn midd",
+        "Et geet mir gutt",
+        "Ech heesche Tom",
+        "Bis geschwënn"
+      ],
+      "answer": "Et geet mir gutt",
+      "say": "Et geet mir gutt"
+    },
+    {
+      "type": "choice",
+      "prompt": "Que signifie « Villmools Merci » ?",
+      "options": [
+        "Merci beaucoup",
+        "Bonne nuit",
+        "À demain",
+        "Excuse-moi"
+      ],
+      "answer": "Merci beaucoup",
+      "say": "Villmools Merci"
+    },
+    {
+      "type": "choice",
+      "prompt": "Comment dit-on « S’il vous plaît » ?",
+      "options": [
+        "W.e.g.",
+        "Äddi",
+        "Nee",
+        "Moien"
+      ],
+      "answer": "W.e.g.",
+      "say": "Wann ech gelift"
+    },
+    {
+      "type": "choice",
+      "prompt": "Que signifie « Bis geschwënn » ?",
+      "options": [
+        "À bientôt",
+        "À hier",
+        "Bonne nuit",
+        "À midi"
+      ],
+      "answer": "À bientôt",
+      "say": "Bis geschwënn"
+    },
+    {
+      "type": "order",
+      "prompt": "Reconstitue « Je vais bien »",
+      "words": [
+        "gutt",
+        "mir",
+        "Et",
+        "geet"
+      ],
+      "answer": [
+        "Et",
+        "geet",
+        "mir",
+        "gutt"
+      ]
+    },
+    {
+      "type": "order",
+      "prompt": "Reconstitue « Comment vas-tu ? »",
+      "words": [
+        "dir",
+        "et",
+        "Wéi",
+        "geet"
+      ],
+      "answer": [
+        "Wéi",
+        "geet",
+        "et",
+        "dir"
+      ]
+    },
+    {
+      "type": "match",
+      "prompt": "Associe les mots à leur traduction",
+      "pairs": [
+        [
+          "Moien",
+          "Bonjour"
+        ],
+        [
+          "Äddi",
+          "Au revoir"
+        ],
+        [
+          "Jo",
+          "Oui"
+        ]
+      ]
+    },
+    {
+      "type": "match",
+      "prompt": "Associe les mots à leur traduction",
+      "pairs": [
+        [
+          "Nee",
+          "Non"
+        ],
+        [
+          "Merci",
+          "Merci"
+        ],
+        [
+          "W.e.g.",
+          "S’il vous plaît"
+        ]
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "Comment dit-on « Au revoir » ?",
+      "options": [
+        "Moien",
+        "Äddi",
+        "Jo",
+        "Nee"
+      ],
+      "answer": "Äddi",
+      "say": "Äddi"
+    }
+  ],
+  "a1-01-02": [
+    {
+      "type": "choice",
+      "prompt": "Que signifie « Wéi geet et dir? » ?",
+      "options": [
+        "Comment vas-tu ?",
+        "Quel âge as-tu ?",
+        "Où habites-tu ?",
+        "À bientôt"
+      ],
+      "answer": "Comment vas-tu ?",
+      "say": "Wéi geet et dir"
+    },
+    {
+      "type": "choice",
+      "prompt": "Comment dire « Je vais bien » ?",
+      "options": [
+        "Ech sinn midd",
+        "Et geet mir gutt",
+        "Ech heesche Tom",
+        "Bis geschwënn"
+      ],
+      "answer": "Et geet mir gutt",
+      "say": "Et geet mir gutt"
+    },
+    {
+      "type": "choice",
+      "prompt": "Que signifie « Villmools Merci » ?",
+      "options": [
+        "Merci beaucoup",
+        "Bonne nuit",
+        "À demain",
+        "Excuse-moi"
+      ],
+      "answer": "Merci beaucoup",
+      "say": "Villmools Merci"
+    },
+    {
+      "type": "choice",
+      "prompt": "Comment dit-on « S’il vous plaît » ?",
+      "options": [
+        "W.e.g.",
+        "Äddi",
+        "Nee",
+        "Moien"
+      ],
+      "answer": "W.e.g.",
+      "say": "Wann ech gelift"
+    },
+    {
+      "type": "choice",
+      "prompt": "Que signifie « Bis geschwënn » ?",
+      "options": [
+        "À bientôt",
+        "À hier",
+        "Bonne nuit",
+        "À midi"
+      ],
+      "answer": "À bientôt",
+      "say": "Bis geschwënn"
+    },
+    {
+      "type": "order",
+      "prompt": "Reconstitue « Je vais bien »",
+      "words": [
+        "gutt",
+        "mir",
+        "Et",
+        "geet"
+      ],
+      "answer": [
+        "Et",
+        "geet",
+        "mir",
+        "gutt"
+      ]
+    },
+    {
+      "type": "order",
+      "prompt": "Reconstitue « Comment vas-tu ? »",
+      "words": [
+        "dir",
+        "et",
+        "Wéi",
+        "geet"
+      ],
+      "answer": [
+        "Wéi",
+        "geet",
+        "et",
+        "dir"
+      ]
+    },
+    {
+      "type": "match",
+      "prompt": "Associe les mots à leur traduction",
+      "pairs": [
+        [
+          "Moien",
+          "Bonjour"
+        ],
+        [
+          "Äddi",
+          "Au revoir"
+        ],
+        [
+          "Jo",
+          "Oui"
+        ]
+      ]
+    },
+    {
+      "type": "match",
+      "prompt": "Associe les mots à leur traduction",
+      "pairs": [
+        [
+          "Nee",
+          "Non"
+        ],
+        [
+          "Merci",
+          "Merci"
+        ],
+        [
+          "W.e.g.",
+          "S’il vous plaît"
+        ]
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "Comment dit-on « Au revoir » ?",
+      "options": [
+        "Moien",
+        "Äddi",
+        "Jo",
+        "Nee"
+      ],
+      "answer": "Äddi",
+      "say": "Äddi"
+    },
+    {
+      "type": "choice",
+      "prompt": "Que signifie « Moien » ?",
+      "options": [
+        "Bonjour",
+        "Au revoir",
+        "Merci",
+        "Pardon"
+      ],
+      "answer": "Bonjour",
+      "say": "Moien"
+    },
+    {
+      "type": "choice",
+      "prompt": "Comment dit-on « Merci » ?",
+      "options": [
+        "Äddi",
+        "Merci",
+        "Jo",
+        "Nee"
+      ],
+      "answer": "Merci",
+      "say": "Merci"
+    },
+    {
+      "type": "choice",
+      "prompt": "Que signifie « Äddi » ?",
+      "options": [
+        "Bonjour",
+        "Au revoir",
+        "Oui",
+        "Non"
+      ],
+      "answer": "Au revoir",
+      "say": "Äddi"
+    },
+    {
+      "type": "choice",
+      "prompt": "Comment dit-on « Oui » ?",
+      "options": [
+        "Nee",
+        "Jo",
+        "Moien",
+        "W.e.g."
+      ],
+      "answer": "Jo",
+      "say": "Jo"
+    },
+    {
+      "type": "choice",
+      "prompt": "Que signifie « Nee » ?",
+      "options": [
+        "Non",
+        "Oui",
+        "Merci",
+        "Salut"
+      ],
+      "answer": "Non",
+      "say": "Nee"
+    }
+  ]
+}
